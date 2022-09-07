@@ -23,11 +23,19 @@ params:
 
     sidebar:
         # emoji: 🍥
-        subtitle: アニメ見つつV見つつ自称プログラマーやってます。(Java、C、Kotlin、Python、Html、Css、Ruby on Rails、Swift、Arduino)いろいろ触ってます。
+        subtitle: アニメ見つつV見つつ自称プログラマーやってます。
         avatar:
             enabled: true
             local: false
             src: /img/avatar.png
+
+    opengraph:
+        twitter:
+            # Your Twitter username
+            site:
+
+            # Available values: summary, summary_large_image
+            card: summary_large_image
 
 menu:
     main: []
@@ -35,23 +43,12 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/harutiro
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: https://twitter.com
+          url: https://twitter.com/minesu1224
           params:
               icon: brand-twitter
-
-related:
-    includeNewer: true
-    threshold: 60
-    toLower: false
-    indices:
-        - name: tags
-          weight: 100
-
-        - name: categories
-          weight: 200
