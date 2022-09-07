@@ -37,6 +37,18 @@ params:
             # Available values: summary, summary_large_image
             card: summary_large_image
 
+    widgets:
+        enabled:
+            - search
+            - archives
+            - tag-cloud
+
+        archives:
+            limit: 5
+
+        tagCloud:
+            limit: 10
+
 menu:
     main: []
 
@@ -52,3 +64,4 @@ menu:
           url: https://twitter.com/minesu1224
           params:
               icon: brand-twitter
+
