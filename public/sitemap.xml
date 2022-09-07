@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://site.harutiro.net/categories/</loc>
+    <loc>http://site.harutiro.net/posts/hacku2022/</loc>
+    <lastmod>2022-09-07T01:35:58+09:00</lastmod>
   </url><url>
     <loc>http://site.harutiro.net/</loc>
+    <lastmod>2022-09-07T01:35:58+09:00</lastmod>
+  </url><url>
+    <loc>http://site.harutiro.net/posts/</loc>
+    <lastmod>2022-09-07T01:35:58+09:00</lastmod>
+  </url><url>
+    <loc>http://site.harutiro.net/categories/</loc>
   </url><url>
     <loc>http://site.harutiro.net/tags/</loc>
   </url>

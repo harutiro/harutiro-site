@@ -1,5 +1,5 @@
 baseURL: http://site.harutiro.net/
-languageCode: ja-JP
+languageCode: ja
 title: harutiro's site
 
 module:
@@ -8,3 +8,50 @@ module:
   imports:
     - path: github.com/CaiJimmy/hugo-theme-stack/v3
       disable: false
+
+
+
+params:
+    mainSections:
+        - post
+    featuredImageField: image
+    rssFullContent: true
+    favicon: /img/favicon.ico
+
+    footer:
+      since: 2022
+
+    sidebar:
+        # emoji: 🍥
+        subtitle: アニメ見つつV見つつ自称プログラマーやってます。(Java、C、Kotlin、Python、Html、Css、Ruby on Rails、Swift、Arduino)いろいろ触ってます。
+        avatar:
+            enabled: true
+            local: false
+            src: /img/avatar.png
+
+menu:
+    main: []
+
+    social:
+        - identifier: github
+          name: GitHub
+          url: https://github.com/CaiJimmy/hugo-theme-stack
+          params:
+              icon: brand-github
+
+        - identifier: twitter
+          name: Twitter
+          url: https://twitter.com
+          params:
+              icon: brand-twitter
+
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+        - name: categories
+          weight: 200
