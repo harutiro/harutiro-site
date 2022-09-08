@@ -50,7 +50,36 @@ params:
             limit: 10
 
 menu:
-    main: []
+    main:
+      - identifier: home
+        name: Home
+        url: /
+        params:
+          icon: home
+
+      - identifier: about
+        name: About
+        url: /about
+        params:
+          icon: user
+
+      - identifier: app
+        name: App
+        url: /app
+        params:
+          icon: tag
+
+      - identifier: archives
+        name: Archives
+        url: /archives
+        params:
+          icon: archives
+
+      - identifier: search
+        name: Search
+        url: /search
+        params:
+          icon: search
 
     social:
         - identifier: github
@@ -64,4 +93,3 @@ menu:
           url: https://twitter.com/minesu1224
           params:
               icon: brand-twitter
-
