@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Hugo on harutiro&#39;s site</title>
+        <link>http://site.harutiro.net/categories/hugo/</link>
+        <description>Recent content in Hugo on harutiro&#39;s site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Wed, 07 Sep 2022 01:35:58 +0900</lastBuildDate><atom:link href="http://site.harutiro.net/categories/hugo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>自己紹介</title>
+        <link>http://site.harutiro.net/post/hacku2022/</link>
+        <pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate>
+        
+        <guid>http://site.harutiro.net/post/hacku2022/</guid>
+        <description>&lt;img src="http://site.harutiro.net/img/my_photo.JPG" alt="Featured image of post 自己紹介" /&gt;&lt;h1 id=&#34;helloworld&#34;&gt;HelloWorld&lt;/h1&gt;
+&lt;h2 id=&#34;i-am-apple&#34;&gt;i am apple&lt;/h2&gt;
+&lt;p&gt;今回は私を紹介したいと思います&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-c:hello.c&#34; data-lang=&#34;c:hello.c&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;include &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;&lt;/span&gt;stdio.h&lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;int&lt;/span&gt; main(){
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    printf(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;HelloWorld&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

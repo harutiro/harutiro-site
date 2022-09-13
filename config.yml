@@ -1,6 +1,7 @@
 baseURL: http://site.harutiro.net/
 languageCode: ja
 title: harutiro's site
+publishDir: "docs"
 
 module:
   # uncomment line below for temporary local development of module
