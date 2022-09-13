@@ -14,6 +14,14 @@
         <guid>http://site.harutiro.net/categories/hugo/</guid>
         <description></description>
         </item>
+        <item>
+        <title>search</title>
+        <link>http://site.harutiro.net/categories/search/</link>
+        <pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate>
+        
+        <guid>http://site.harutiro.net/categories/search/</guid>
+        <description></description>
+        </item>
         
     </channel>
 </rss>

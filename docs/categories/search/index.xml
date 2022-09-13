@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>search on harutiro&#39;s site</title>
+        <link>http://site.harutiro.net/categories/search/</link>
+        <description>Recent content in search on harutiro&#39;s site</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <lastBuildDate>Wed, 07 Sep 2022 01:35:58 +0900</lastBuildDate><atom:link href="http://site.harutiro.net/categories/search/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>検索</title>
+        <link>http://site.harutiro.net/search/search_index/</link>
+        <pubDate>Wed, 07 Sep 2022 01:35:58 +0900</pubDate>
+        
+        <guid>http://site.harutiro.net/search/search_index/</guid>
+        <description>&lt;h1 id=&#34;検索&#34;&gt;検索&lt;/h1&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

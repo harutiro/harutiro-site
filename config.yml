@@ -79,7 +79,7 @@ menu:
 
       - identifier: search
         name: Search
-        url: /search
+        url: /search/search_index/
         params:
           icon: search
 
@@ -95,3 +95,15 @@ menu:
           url: https://twitter.com/minesu1224
           params:
               icon: brand-twitter
+        
+        - identifier: qiita
+          name: Qiita
+          url: https://qiita.com/harutiro
+          params:
+              icon: qiita
+        
+        - identifier: zenn
+          name: Zenn
+          url: https://zenn.dev/harutiro
+          params:
+              icon: zenn
