@@ -1,6 +1,8 @@
 # インストール方法
 
 ```bash
+# テンプレートのダウンロードを行う
+git submodule update --init --recursive
 # テーマに必要なパッケージをインストールします
 npm install 
 # Hugo ビルドで PostCSS を使用するために実行します。

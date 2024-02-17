@@ -1,0 +1,63 @@
+baseURL: https://example.org/
+languageCode: ja
+title: harutiro's site
+theme: digitalgarden
+publishDir: docs
+
+Params:
+  description: My Digital Garden on the Internet
+  images: ['/digital-garden-logo.png']
+  enableSearch: true
+
+menu:
+  main:
+    - name: ホーム
+      url: /
+      weight: 1
+    - name: コンテンツ
+      params:
+        header: true
+      weight: 2
+    - name: 製作物一覧
+      url: /stack
+      weight: 3
+    - name: ポートフォリオ
+      url: /portfolio
+      weight: 4
+    - name: 記事
+      url: /articles
+      weight: 5
+    - name: Link
+      params:
+        header: true
+      weight: 6
+    - name: 私の今のサイト
+      url: https://www.harutiro.net
+      weight: 7
+  
+  social:
+    - name: Twitter
+      url: https://twitter.com
+      weight: 1
+    - name: Qiita
+      url: https://twitter.com
+      weight: 2
+      params:
+        icon: qiita
+    - name: Zenn
+      url: https://twitter.com
+      weight: 3
+      params:
+        icon: zenn
+    - name: GitHub
+      url: https://twitter.com
+      weight: 4
+
+# syntax highlight settings
+markup: 
+  highlight:
+    style: dracula
+  goldmark: 
+    renderer:
+      # Enable to include inline HTML
+      unsafe: true
