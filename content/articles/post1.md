@@ -1,5 +1,7 @@
 ---
 title: post1
+date: 2024-01-01
+images: [ "https://picsum.photos/id/30/400/300" ]
 ---
 
 # テスト的なタイトル
