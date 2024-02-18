@@ -22,7 +22,7 @@ title: HomePage
 
 # スキルセット
 
-<div style="display: flex;">
+<div class="bg-white rounded" style="display: flex;">
 {{<embedLOG src="graph1.html">}}
 {{<embedLOG src="graph2.html">}}
 {{<embedLOG src="graph3.html">}}
