@@ -18,10 +18,10 @@ menu:
       params:
         header: true
       weight: 2
-    - name: 製作物一覧
+    - name: 歴史
       url: /stack
       weight: 3
-    - name: ポートフォリオ
+    - name: 製作物一覧
       url: /portfolio
       weight: 4
     - name: 記事
