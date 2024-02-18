@@ -6,12 +6,14 @@
 - digitalgarden
 
 ## アセッツ
-- skill-icons
+- [skill-icons](https://github.com/tandpfun/skill-icons)
 - icons8
 - googlefont
 
 
 # インストール方法
+
+## 初回起動
 
 ```bash
 # テンプレートのダウンロードを行う
@@ -24,6 +26,14 @@ npm i -g postcss-cli
 npm run dev
 # or
 hugo server
+```
+
+## buildを通すとき
+
+tailwindを使用する関係で、このやり方でないと失敗する。
+
+```bash
+npm run build
 ```
 
 # 書き方
