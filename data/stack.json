@@ -1,12 +1,42 @@
 [
     {
-        "name": "Bear Notes",
-        "description": "Quick note taking application on Mac for writing down instant thoughts",
-        "link": "https://bear.app/",
-        "icon": "https://blog.bear.app/wp-content/uploads/2018/10/bear-icon.png",
+        "header": true,
+        "name": "高校生"
+    },
+    {
+        "name": "吹奏楽部入部",
+        "description": "プログラミング一色の人生ではなく、音楽の趣味も持っており、学校の定期演奏会などにクラリネットを持ち演奏をしています。",
+        "link": "",
+        "icon": "/images/stack/BrassBandPhoto.jpg",
+        "date": "2019年 4月",
         "tags": [
-            "Productivity",
-            "Writing"
+            "吹奏楽",
+            "高校生"
+        ]
+    },
+    {
+        "name": "総合競技大会プログラム部門 2位",
+        "description": "電子回路とプログラムを行い、組み立てやプログラミングのスピードと正確さを競う大会にて、プログラムの部門にて2位を取得しました。総合部門では惜しくも9位でした。プログラミングではPICを用いたプログラミングで組み込みシステムについて勉強をおこなった",
+        "link": "",
+        "icon": "/images/stack/GeneralCompetitionTournament.jpg",
+        "date": "2021年 6月",
+        "tags": [
+            "Microchip",
+            "C言語",
+            "組み込みシステム",
+            "PIC",
+            "高校生"
+        ]
+    },
+    {
+        "name": "豊川工科高校卒業",
+        "description": "情報システム科を卒業 電子回路やプログラミング基礎などを勉強し、課題研究では、Pythonを用いシューティングゲームを開発したり、WebにてSIWの開発をおこなった",
+        "link": "https://toyokawa-te.aichi-c.ed.jp/cms/",
+        "icon": "/images/stack/Toyokawa-te.jpg",
+        "date": "2022年 3月",
+        "tags": [
+            "高校生",
+            "卒業"
         ]
     },
     {
@@ -14,49 +44,29 @@
         "name": "大学1年生"
     },
     {
-        "name": "Cloudflare",
-        "description": "Place for all my domains on the internet",
-        "link": "https://cloudflare.com",
-        "icon": "",
+        "name": "愛知工業大学入学",
+        "description": "情報科学部 情報科学科 コンピュータシステム専攻に入学し、より詳しい知識を勉強する。",
+        "link": "https://ait.ac.jp/",
+        "icon": "/images/stack/ait.jpg",
+        "date": "2022年 4月",
         "tags": [
-            "Webdev",
-            "Productivity"
+            "大学生",
+            "入学"
         ]
     },
     {
-        "name": "Vercel",
-        "description": "Hosts frontend of projects including this website",
-        "link": "https://vercel.com/",
-        "icon": "",
-        "tags": []
-    },
-    {
-        "name": "GitHub",
-        "description": "Code hosting for all projects",
-        "link": "https://github.com/",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png",
+        "name": "サポーターズ技育キャンプ 努力賞受賞",
+        "description": "ハッカソンの一つである、技育キャンプにて「部室の人数をリアルタイムで表示してくれるサービス〜人の入り見れる蔵〜」にて、努力賞を受賞。 ibeaconやFirebaseなどのさまざまな技術やプラットフォームを用いてチーム開発を行なった。",
+        "link": "https://docs.google.com/presentation/d/1nJJlpBWSvy_7nI_vquOpmU6FeEDkan8svN1KiU5exuY/present?slide=id.g132748071b6_4_45",
+        "icon": "/images/stack/supporterz.png",
+        "date": "2022年 6月",
         "tags": [
-            "Webdev",
-            "Productivity"
-        ]
-    },
-    {
-        "name": "iTerm",
-        "description": "A definitely more functional terminal for Mac",
-        "link": "https://iterm2.com/",
-        "icon": "https://icons.iconarchive.com/icons/froyoshark/enkel/256/iTerm-icon.png",
-        "tags": [
-            "Productivity"
-        ]
-    },
-    {
-        "name": "Figma",
-        "description": "Design tool for all design artifacts and social media handles",
-        "link": "https://www.figma.com/",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg",
-        "tags": [
-            "Design",
-            "Productivity"
+            "iBeacon",
+            "Firebase",
+            "ハッカソン",
+            "Android",
+            "Raspberry Pi",
+            "大学生"
         ]
     }
 ]
