@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>TEST</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@next/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js"></script>
+</head>
+
+<body>
+    <div style="width:250px">
+        <canvas id="myRadarChart"></canvas>
+    </div>
+    <script>
+        var ctx = document.getElementById("myRadarChart");
+        var myChart = new Chart(ctx, {
+            type: 'radar',
+            data: {
+                //データの各項目のラベル(上から時計回り)
+                labels: ["Next", "React", "PHP", "Ruby", "java"],
+                //データ設定
+                datasets: [
+                    {
+                        //グラフのデータ(上から時計回り)
+                        data: [50, 40, 5, 30, 40],
+                        //グラフ全体のラベル
+                        label: "フロント",
+                        //背景色
+                        backgroundColor: "rgba(255,0,0,0.1)",
+                        //線の終端を四角にするか丸めるかの設定。デフォルトは四角(butt)。
+                        borderCapStyle: "butt",
+                        //線の色
+                        borderColor: "rgba(255,0,0)",
+                        //線を破線にする
+                        borderDash: [],
+                        //破線のオフセット(基準点からの距離)
+                        borderDashOffset: 0.0,
+                        //線と線が交わる箇所のスタイル。初期値は'miter'
+                        borderJoinStyle: 'miter',
+                        //線の幅。ピクセル単位で指定。初期値は3。
+                        borderWidth: 3,
+                        //グラフを塗りつぶすかどうか。初期値はtrue。falseにすると枠線だけのグラフになります。
+                        fill: true,
+                        //複数のグラフを重ねて描画する際の重なりを設定する。z-indexみたいなもの。初期値は0。
+                        order: 0,
+                        //0より大きい値にすると「ベジェ曲線」という数式で曲線のグラフになります。初期値は0。
+                        lineTension: 0
+                    }
+                ]
+            },
+            options: {
+                scales: {
+                    r: {
+                        //グラフの最小値・最大値
+                        min: 0,
+                        max: 100,
+                        //背景色
+                        backgroundColor: 'white',
+                        //グリッドライン
+                        grid: {
+                            color: 'silver',
+                        },
+                        //アングルライン
+                        angleLines: {
+                            color: 'silver',
+                        },
+                        //各項目のラベル
+                        pointLabels: {
+                            color: 'black',
+                        },
+                    },
+                },
+            }
+        });
+
+    </script>
+    </div>
+</body>
+
+</html>
