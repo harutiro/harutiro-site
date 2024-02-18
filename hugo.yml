@@ -37,20 +37,20 @@ menu:
   
   social:
     - name: Twitter
-      url: https://twitter.com
+      url: https://twitter.com/minesu1224
       weight: 1
     - name: Qiita
-      url: https://twitter.com
+      url: https://qiita.com/harutiro
       weight: 2
       params:
         icon: qiita
     - name: Zenn
-      url: https://twitter.com
+      url: https://zenn.dev/harutiro
       weight: 3
       params:
         icon: zenn
     - name: GitHub
-      url: https://twitter.com
+      url: https://github.com/harutiro
       weight: 4
 
 # syntax highlight settings
