@@ -3,8 +3,7 @@ languageCode: ja
 title: harutiro's site
 theme: digitalgarden
 publishDir: docs
-relativeurls: true
-
+relativeURLs: true
 
 Params:
   description: My Digital Garden on the Internet
@@ -29,13 +28,13 @@ menu:
     - name: 記事
       url: /articles
       weight: 5
-    - name: Link
-      params:
-        header: true
-      weight: 6
-    - name: 私の今のサイト
-      url: https://www.harutiro.net
-      weight: 7
+    # - name: Link
+    #   params:
+    #     header: true
+    #   weight: 6
+    # - name: 私の今のサイト
+    #   url: https://www.harutiro.net
+    #   weight: 7
   
   social:
     - name: Twitter
