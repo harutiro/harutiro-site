@@ -1,0 +1,15 @@
+services:
+  app:
+    build:
+      context: .  # Dockerfileのあるディレクトリ
+      dockerfile: ./build/app/Dockerfile  # Dockerfileの名前
+    tty: true
+    ports: 
+      - "8080:8080"
+    volumes:
+      - ./:/usr/src/app
+    command: >
+      bash -c " cd /usr/src/app &&
+      npm install &&
+      npm i -g postcss-cli &&
+      npm run dev"

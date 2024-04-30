@@ -1,8 +1,10 @@
-baseURL: https://site.harutiro.net/
+baseURL: https://harutiro.net/
 languageCode: ja
 title: harutiro's site
 theme: digitalgarden
 publishDir: docs
+relativeURLs: true
+
 
 Params:
   description: My Digital Garden on the Internet
