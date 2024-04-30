@@ -3,7 +3,7 @@ languageCode: ja
 title: harutiro's site
 theme: digitalgarden
 publishDir: docs
-relativeURLs: true
+relativeurls: true
 
 
 Params:
