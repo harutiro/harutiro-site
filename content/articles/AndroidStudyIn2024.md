@@ -1,6 +1,6 @@
 ---
 title: Androidを勉強してみようの記事 in 2024
-date: 2024-05-02
+date: 2024-05-01
 images: [ "https://img.esa.io/uploads/production/attachments/13979/2024/05/02/129607/c852792c-03a0-4245-a48e-408f9f224ea6.png" ]
 ---
 
@@ -61,6 +61,3 @@ https://developer.android.com/?hl=ja
 - Androidを使いこなす
     - [ユニット 5: インターネットに接続する](https://developer.android.com/courses/android-basics-compose/unit-5?hl=ja)
     - [ユニット 6: データの永続化](https://developer.android.com/courses/android-basics-compose/unit-6?hl=ja)
-    
-
-
