@@ -1,3 +1,9 @@
+---
+title: Androidを勉強してみようの記事 in 2024
+date: 2024-05-02
+images: [ "https://img.esa.io/uploads/production/attachments/13979/2024/05/02/129607/c852792c-03a0-4245-a48e-408f9f224ea6.png" ]
+---
+
 # 環境について
 今回のAndroidStudioのバージョンは`Android Studio Jellyfish | 2023.3.1`でやっていきます。
 
