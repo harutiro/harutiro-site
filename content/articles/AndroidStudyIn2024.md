@@ -1,9 +1,3 @@
----
-title: Androidを勉強してみようの記事 in 2024
-date: 2024-01-01
-images: [ "https://img.esa.io/uploads/production/attachments/13979/2024/05/02/129607/c852792c-03a0-4245-a48e-408f9f224ea6.png" ]
----
-
 # 環境について
 今回のAndroidStudioのバージョンは`Android Studio Jellyfish | 2023.3.1`でやっていきます。
 
@@ -44,6 +38,11 @@ https://developer.android.com/?hl=ja
 - アプリは起動すると、作られて、始まって、、、みたいなの。
 
 # 具体的な内容
+
+以下の記事をみなさんに進めてもらいます。
+その中でわからないところがあったら、適宜教えにいくスタイルにします。
+残り1時間ぐらいになったら、今できている範囲で何か面白いひと工夫をWebなどで調べながら実装してもらって、少し発表会をして終わる感じにします。
+
 - [AndroidでHelloWorld](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-app&%3Bhl=ja&hl=ja#0)
     - とりあえず、アプリを作ってみて、出力される文字を変えてみるだけ。
     - 動作確認だけです。
@@ -57,3 +56,4 @@ https://developer.android.com/?hl=ja
     - [ユニット 5: インターネットに接続する](https://developer.android.com/courses/android-basics-compose/unit-5?hl=ja)
     - [ユニット 6: データの永続化](https://developer.android.com/courses/android-basics-compose/unit-6?hl=ja)
     
+
