@@ -6,6 +6,9 @@ description: すれ違い通信を持ちて周りの人からファッション�
 icons: ["https://skillicons.dev/icons?i=kotlin" , "https://skillicons.dev/icons?i=androidstudio", "https://skillicons.dev/icons?i=nextjs","https://skillicons.dev/icons?i=firebase"]
 ---
 
+# 発表資料
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR05zbBo_ui9corepBfe5QWJPjI9AWXjBxwOIbBKYOukyjFgnLRKDlSbI6gQhAlSA/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 # 作品概要
 Yahoo開催のハッカソン「HackU」に研究室のメンバーと参加をして、最優秀賞を取得しました。 
 
