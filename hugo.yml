@@ -6,8 +6,8 @@ publishDir: docs
 relativeURLs: true
 
 Params:
-  description: My Digital Garden on the Internet
-  images: ['/digital-garden-logo.png']
+  description: はるちろのポートフォリオサイトです。
+  images: ['/images/my_icon.png']
   enableSearch: true
 
 menu:
