@@ -65,6 +65,13 @@
       <description>&lt;p&gt;サークル内で使用するダウンロードカードの印刷兼カウントアプリの作成を行いました。&#xA;このアプリは、配布した本をダウンロードするためのカードをその場で印刷しながら、購入数のカウントを行えるため、売り子さんの手間を減らすことができました。それによって数え間違えを無くし、誤差を0円にすることができました。&lt;/p&gt;&#xA;&lt;p&gt;詳しくは、本を書く予定ですので、そちらを参考にしていただけると助かります。&lt;/p&gt;&#xA;&lt;h1 id=&#34;発表資料&#34;&gt;発表資料&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQYUeOK972CkVwkCuvgOnc79LOENA2pqj7H6gVy4zjw91-By4t6MSJO3yLOgUM2iB6sKoIER5QjGmqt/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
+      <title>サーマルプリンタで会計アプリの作成方法について本を書きました。</title>
+      <link>http://localhost:1313/portfolio/thermal_printer_book/</link>
+      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/thermal_printer_book/</guid>
+      <description>&lt;p&gt;この本は、自分がサークルに導入したサーマルプリンターを用いたダウンロードカードを制作するにあたって、なぜそのアプリを作成したのか、そしてどのように作成したのかをまとめた本になります。&lt;/p&gt;&#xA;&lt;p&gt;具体的にサーマルプリンターを用いて印刷をする方法は時間の関係でまとめることができなかったので、後日時間が取れましたら、作成をする予定です。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;初出イベント: 技術書典17&lt;/li&gt;&#xA;&lt;li&gt;ページ数: 28&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;参考url&#34;&gt;参考URL&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://techbookfest.org/product/nxus2XBiNNmYkMghwgv0QU?productVariantID=wPcGFNz3fRXULRabUh3L4a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://techbookfest.org/product/nxus2XBiNNmYkMghwgv0QU?productVariantID=wPcGFNz3fRXULRabUh3L4a&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>在庫管理お知らせアプリ</title>
       <link>http://localhost:1313/portfolio/potimane/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
