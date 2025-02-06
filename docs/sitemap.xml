@@ -1,1 +1,43 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://site.harutiro.net/articles/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url><url><loc>https://site.harutiro.net/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url><url><loc>https://site.harutiro.net/articles/post1/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url><url><loc>https://site.harutiro.net/portfolio/trainalert/</loc><lastmod>2022-03-12T00:00:00+00:00</lastmod></url><url><loc>https://site.harutiro.net/portfolio/</loc><lastmod>2022-03-12T00:00:00+00:00</lastmod></url><url><loc>https://site.harutiro.net/portfolio/clips/</loc><lastmod>2021-09-03T00:00:00+00:00</lastmod></url><url><loc>https://site.harutiro.net/portfolio/siw/</loc><lastmod>2021-08-27T00:00:00+00:00</lastmod></url><url><loc>https://site.harutiro.net/portfolio/potimane/</loc><lastmod>2021-08-27T00:00:00+00:00</lastmod></url><url><loc>https://site.harutiro.net/categories/</loc></url><url><loc>https://site.harutiro.net/stack/</loc></url><url><loc>https://site.harutiro.net/tags/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/articles/androidstudyin2024/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/trainalert/</loc>
+    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/</loc>
+    <lastmod>2022-03-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/clips/</loc>
+    <lastmod>2021-09-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/siw/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/potimane/</loc>
+    <lastmod>2021-08-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/graph1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/graph2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/graph3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/business_card/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/stack/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

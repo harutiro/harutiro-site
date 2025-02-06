@@ -8,10 +8,29 @@
   <link rel="icon" href="../favicon.ico">
 
   <title>
-    Tags - harutiro&#39;s site
+     - harutiro&#39;s site
   </title>
 
-  <meta name="description" content="My Digital Garden on the Internet" /><meta name="generator" content="Hugo 0.143.1">
+  <meta name="description" content="&lt;!DOCTYPE html&gt;
+
+
+
+    
+    TEST
+    
+    
+    
+
+
+
+    
+        
+    
+    
+    
+
+
+" /><meta name="generator" content="Hugo 0.143.1">
 
   <link rel="stylesheet" href="http://localhost:1313/css/main.css" />
 
@@ -28,30 +47,32 @@
   
   
 
-  <meta property="og:url" content="http://localhost:1313/tags/">
+  <meta property="og:url" content="http://localhost:1313/graph1/">
   <meta property="og:site_name" content="harutiro&#39;s site">
-  <meta property="og:title" content="Tags">
-  <meta property="og:description" content="My Digital Garden on the Internet">
+  <meta property="og:title" content="harutiro&#39;s site">
+  <meta property="og:description" content="&lt;!DOCTYPE html&gt; TEST">
   <meta property="og:locale" content="ja">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
     <meta property="og:image" content="http://localhost:1313/digital-garden-logo.png">
 
 
   
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:image" content="http://localhost:1313/digital-garden-logo.png">
-  <meta name="twitter:title" content="Tags">
-  <meta name="twitter:description" content="My Digital Garden on the Internet">
+  <meta name="twitter:title" content="harutiro&#39;s site">
+  <meta name="twitter:description" content="&lt;!DOCTYPE html&gt; TEST">
 
 
   
-  <meta itemprop="name" content="Tags">
-  <meta itemprop="description" content="My Digital Garden on the Internet">
+  <meta itemprop="name" content="harutiro&#39;s site">
+  <meta itemprop="description" content="&lt;!DOCTYPE html&gt; TEST">
+  <meta itemprop="wordCount" content="3">
   <meta itemprop="image" content="http://localhost:1313/digital-garden-logo.png">
 
   
-  <meta itemprop="name" content="Tags">
-  <meta itemprop="description" content="My Digital Garden on the Internet">
+  <meta itemprop="name" content="harutiro&#39;s site">
+  <meta itemprop="description" content="&lt;!DOCTYPE html&gt; TEST">
+  <meta itemprop="wordCount" content="3">
   <meta itemprop="image" content="http://localhost:1313/digital-garden-logo.png">
 </head><body class="flex relative h-full min-h-screen"><aside
   class="will-change-transform transform transition-transform -translate-x-full absolute top-0 left-0 md:relative md:translate-x-0 w-3/4 md:basis-60 h-full min-h-screen p-3 bg-slate-50 dark:bg-slate-800 border-r border-slate-200 dark:border-slate-700 flex flex-col gap-2.5 z-20 sidebar flex-shrink-0">
@@ -195,6 +216,100 @@
   <line x1="4" y1="12" x2="20" y2="12" />
   <line x1="4" y1="18" x2="16" y2="18" />
 </svg></button>
+
+
+<main class="h-screen overflow-y-auto">
+  <div class="px-6 py-20 w-full lg:w-[580px] mx-auto prose dark:prose-invert h-fit prose-img:mx-auto">
+
+    <h1></h1>
+    
+
+    <!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>TEST</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@next/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js"></script>
+</head>
+
+<body>
+    <div style="width:250px">
+        <canvas id="myRadarChart"></canvas>
+    </div>
+    <script>
+        var ctx = document.getElementById("myRadarChart");
+        var myChart = new Chart(ctx, {
+            type: 'radar',
+            data: {
+                //データの各項目のラベル(上から時計回り)
+                labels: ["Docker", "GitHub", "AWS", "Firebase", "GCP"],
+                //データ設定
+                datasets: [
+                    {
+                        //グラフのデータ(上から時計回り)
+                        data: [50, 70, 20, 60, 20],
+                        //グラフ全体のラベル
+                        label: "プラットフォーム",
+                        //背景色
+                        backgroundColor: "rgba(255,160,0,0.1)",
+                        //線の終端を四角にするか丸めるかの設定。デフォルトは四角(butt)。
+                        borderCapStyle: "butt",
+                        //線の色
+                        borderColor: "rgba(255,160,0)",
+                        //線を破線にする
+                        borderDash: [],
+                        //破線のオフセット(基準点からの距離)
+                        borderDashOffset: 0.0,
+                        //線と線が交わる箇所のスタイル。初期値は'miter'
+                        borderJoinStyle: 'miter',
+                        //線の幅。ピクセル単位で指定。初期値は3。
+                        borderWidth: 3,
+                        //グラフを塗りつぶすかどうか。初期値はtrue。falseにすると枠線だけのグラフになります。
+                        fill: true,
+                        //複数のグラフを重ねて描画する際の重なりを設定する。z-indexみたいなもの。初期値は0。
+                        order: 0,
+                        //0より大きい値にすると「ベジェ曲線」という数式で曲線のグラフになります。初期値は0。
+                        lineTension: 0
+                    }
+                ]
+            },
+            options: {
+                scales: {
+                    r: {
+                        //グラフの最小値・最大値
+                        min: 0,
+                        max: 100,
+                        //背景色
+                        backgroundColor: 'white',
+                        //グリッドライン
+                        grid: {
+                            color: 'silver',
+                        },
+                        //アングルライン
+                        angleLines: {
+                            color: 'silver',
+                        },
+                        //各項目のラベル
+                        pointLabels: {
+                            color: 'black',
+                        },
+                    },
+                },
+            }
+        });
+
+    </script>
+    </div>
+</body>
+
+</html>
+  </div>
+</main>
+
 
   
 <script type="text/javascript" src="../main.js" defer></script>
