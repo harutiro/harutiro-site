@@ -18,7 +18,7 @@
     {
         "name": "株式会社CARTA HOLDINGS Treasureにてインターンを行う",
         "description": "株式会社CARTA HOLDINGSの2024年度インターン「treasure」に3週間参加しました。",
-        "link": "",
+        "link": "/articles/cartatreasure/",
         "icon": "/images/stack/Treasure.jpg",
         "date": "2024月 8月",
         "tags": [
@@ -32,7 +32,7 @@
     {
         "name": "DroidKaigiにて位置情報サービス(Geofence)の使い方について登壇をしました。",
         "description": "内容としては、自作のGeofenceの使い方とGoogleMobileServiceのGeofenceの違いを述べたり、電池寿命を伸ばすための工夫などをスライド150ページほどでまとめました。",
-        "link": "",
+        "link": "/articles/droidkaigi/",
         "icon": "/images/stack/droidkaigi.png",
         "date": "2024月 8月",
         "tags": [
@@ -76,7 +76,7 @@
     {
         "name": "ライフイズテック株式会社でメンター業務を行う",
         "description": "中高生にプログラミング技術を教える企業でメンターとして、主にSchool事業とキャンプ事業に携わり、プログラミングの指導や生徒のサポートを行っていました。",
-        "link": "",
+        "link": "/articles/lifeistech/",
         "icon": "/images/stack/LifeIsTech.jpeg",
         "date": "2023月 7月〜",
         "tags": [
@@ -94,7 +94,7 @@
     {
         "name": "株式会社Relicに長期インターンを行う",
         "description": "新規事業の立ち上げを戦略/企画立案から開発、グロースまで一気通貫で行う事業を行う会社で、モバイルエンジニアとして、開発を行ってきた。",
-        "link": "",
+        "link": "/articles/relic/",
         "icon": "/images/stack/relic.png",
         "date": "2023年 1月~2024年 8月",
         "tags": [

@@ -6,8 +6,36 @@
     <description>Recent content in Articles on harutiro&#39;s site</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DroidKaigiにて位置情報サービス(Geofence)の使い方について登壇をしました。</title>
+      <link>http://localhost:1313/articles/droidkaigi/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/droidkaigi/</guid>
+      <description>&lt;p&gt;位置情報技術に関する内容で発表を行いました。&#xA;内容としては、自作のGeofenceの使い方とGoogleMobileServiceのGeofenceの違いを述べたり、電池寿命を伸ばすための工夫などをスライド150ページほどでまとめました。&#xA;予想以上に多くの方にご関心をいただき、立ち見が出るほどの盛況となり、大変驚きました。一方で、発表時間の配分に課題があり、後半は内容を急いで説明せざるを得なくなる場面がありました。この経験から、次回以降は&lt;strong&gt;資料を早期に完成させ、十分な発表練習を行う&lt;/strong&gt;ことの重要性を改めて認識しました。&lt;br&gt;&#xA;それでも、多くの方から肯定的なフィードバックをいただき、また実験結果としてバッテリー寿命の改善を明確に示すことができた点は、大きな成果だと感じます。&lt;/p&gt;&#xA;&lt;p&gt;公式ホームページ&#xA;&lt;a href=&#34;https://2024.droidkaigi.jp/timetable/689944/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;電池寿命を考えた位置情報の監視方法を考える（Geofence） | DroidKaigi 2024&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Life is Tech株式会社さんでメンター業務を行っていました</title>
+      <link>http://localhost:1313/articles/lifeistech/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/lifeistech/</guid>
+      <description>&lt;p&gt;私は、中高生にプログラミング技術を教える企業でメンターとして、主にSchool事業とキャンプ事業に携わり、プログラミングの指導や生徒のサポートを行っていました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学んだこと&#34;&gt;学んだこと&lt;/h1&gt;&#xA;&lt;p&gt;この経験を通じて、プログラミング技術の指導だけでなく、生徒を効果的にファシリテートするスキルも身につけました。生徒がどのようにすれば効率的に学び、ITを活用したものづくりに対して興味を持ち、楽しさを感じてもらえるかを常に考えていました。&lt;/p&gt;&#xA;&lt;p&gt;プログラミングの指導においては、生徒の理解度を的確に把握し、難しい概念を噛み砕いて伝えることを重視しました。理解が早い生徒には追加の資料を提供し、さらに発展的な学習やスピード感のある開発に繋げました。&lt;/p&gt;&#xA;&lt;p&gt;ファシリテートスキルとしては、生徒との視線を合わせたコミュニケーションや、グループ内での良好な関係を築く場作りを意識しました。メンターと生徒の信頼関係を深め、安心して学べる環境づくりを大切にしてきました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;大切にしていたこと&#34;&gt;大切にしていたこと&lt;/h1&gt;&#xA;&lt;p&gt;「Why don&amp;rsquo;t you change the world?」という言葉がLife is Techの理念として掲げられており、私自身もその考えに深く共感しています。プログラミングを教える際には、生徒たちに、まずは家族や友人など身近な人々からでも、世界に影響を与えることができるんだという意識を持たせるよう心がけました。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>株式会社CARTA HOLDINGSの2024年度インターン「treasure」に3週間参加しました。</title>
+      <link>http://localhost:1313/articles/cartatreasure/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/cartatreasure/</guid>
+      <description>&lt;p&gt;このインターンでは、CARTA HOLDINGSが大切にしている超効率的なアジャイル開発の基本や、チーム開発におけるコミュニケーションの取り方などを学びました。プログラムの流れとしては、1週目にTypeScriptの基礎や、バックエンドフレームワークのHono、フロントエンドフレームワークのViteを学習。2週目には、チームに分かれてアイデア出しと企画書作成を行い、3週目には、その企画書をもとに開発を進め、最終日に発表を行いました。&lt;/p&gt;&#xA;&lt;p&gt;このインターンで最も驚かされたのは、常に本番環境を意識した話し合いや、無駄を一切許さない開発効率でした。本番環境を確認しながら進めるという点では、自分のローカル環境で問題なく動作していた機能も、複数人のコードがマージされると予期せぬ不具合が発生しがちな経験が多くありました。しかし、今回のインターンでは、細かい粒度でPRを行い、常に本番環境を意識して確認を行うことで、UI/UXの微細なズレや機能面での不統一を早期に発見し、これが現場レベルの開発であることを実感しながら進めることができました。&lt;/p&gt;&#xA;&lt;p&gt;次に、1分1秒も無駄にしない開発効率についてです。開発の手が少し空いた際にメンターから「周りの人からタスクをもらえることを考えたか？」と問われたことで、周囲の状況を常に意識し、次に自分ができることを探す姿勢が今後の成長に重要だと感じました。&lt;/p&gt;&#xA;&lt;p&gt;この3週間を通じて全てを吸収できたわけではありませんが、日々のチーム開発において本番環境をしっかり意識する心構えや、チームの状況を把握しながら自ら積極的に貢献できるように努めていきたいと思っています。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>株式会社Relicさんでインターンを行っていました</title>
+      <link>http://localhost:1313/articles/relic/</link>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/relic/</guid>
+      <description>&lt;p&gt;新規事業の立ち上げを戦略/企画立案から開発、グロースまで一気通貫で行う事業を行う会社で、モバイルエンジニアとして、開発を行ってきた。&lt;/p&gt;&#xA;&lt;p&gt;主に、現在はサービスが終了してしまったLoupeというアプリを開発しており、バグの修正から、新機能の開発などを担当した。&lt;/p&gt;&#xA;&lt;p&gt;公式サイトは無くなってしまったため、口コミサイトでのLoupeの情報&#xA;&lt;a href=&#34;https://prtimes.jp/main/html/rd/p/000000130.000016318.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://prtimes.jp/main/html/rd/p/000000130.000016318.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;学んだこととしては、技術面もたくさん学ばしてもらったが、一番印象に残ったことは開発を行う時のコミュニケーションだと考える。&#xA;私が、新機能の開発をしている時に動作が重くなってしまうコードを書いてしまい、そのままPRが通ってしまい、テスト配信をする時に動作が重くなったことが判明して、一時配信が遅延しかけてしまいましたが、自分が問題の原因を作ってしまったことを気づき、PMに相談して、ことなきを得たことがありました。&#xA;その時に、PRをするときは、しっかりと問題点を書き出したり、相談するときはDraftを用いるなど、ちょっとした気配りが、大事だと感じました。&#xA;また、怒られることを怖がって、相談しないで、闇に葬ろうとすると、原因究明に時間がかかり、工数が無駄にかかってしまうため、しっかりと相談をすることが大事だと感じた。&lt;/p&gt;&#xA;&lt;p&gt;他にも、Androidアプリで、新規事業をするときの技術調査を行ったりした。&#xA;現在は、Flutterを用いたテンプレートアプリを開発し、今後の新規事業に備え、開発を行っている。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Androidを勉強してみようの記事 in 2024</title>
       <link>http://localhost:1313/articles/androidstudyin2024/</link>
