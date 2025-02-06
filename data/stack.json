@@ -1,17 +1,228 @@
 [
     {
         "header": true,
+        "name": "大学3年生"
+    },
+    {
+        "name": "株式会社Forgers",
+        "description": "Unityなどを用いてXR系のアプリケーションの開発を行う。",
+        "link": "",
+        "icon": "/images/stack/FORGERS.png",
+        "date": "2023月 11月",
+        "tags": [
+            "Forgers",
+            "XR",
+            "Unity"
+        ]
+    },
+    {
+        "name": "株式会社CARTA HOLDINGS Treasureにてインターンを行う",
+        "description": "株式会社CARTA HOLDINGSの2024年度インターン「treasure」に3週間参加しました。",
+        "link": "",
+        "icon": "/images/stack/Treasure.jpg",
+        "date": "2023月 11月",
+        "tags": [
+            "CARTA HOLDINGS",
+            "Treasure",
+            "Hono",
+            "Vite",
+            "アジャイル開発"
+        ]
+    },
+    {
+        "name": "DroidKaigiにて位置情報サービス(Geofence)の使い方について登壇をしました。",
+        "description": "内容としては、自作のGeofenceの使い方とGoogleMobileServiceのGeofenceの違いを述べたり、電池寿命を伸ばすための工夫などをスライド150ページほどでまとめました。",
+        "link": "",
+        "icon": "/images/stack/droidkaigi.png",
+        "date": "2024月 8月",
+        "tags": [
+            "カンファレンス",
+            "位置推定",
+            "Geofence",
+            "GoogleMobileService",
+            "Android"
+        ]
+    },
+    {
+        "header": true,
+        "name": "大学2年生"
+    },
+    {
+        "name": "2023 技育CAMPキャラバン名古屋にて、企業賞を受賞",
+        "description": "雀をする時にウェアラブルデバイスをつけ、心拍数を取得し全員で確認をすることで新たなゲーム性を追加するアプリケーションの開発",
+        "link": "https://www.canva.com/design/DAF0xYjmrsM/-Sf1-DPOQC_kCB8QCgOp3A/edit?utm_content=DAF0xYjmrsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+        "icon": "/images/stack/heartBeatsSensing.png",
+        "date": "2023月 11月",
+        "tags": [
+            "Android Wear",
+            "心拍数",
+            "ハッカソン",
+            "Next.js",
+            "Python"
+        ]
+    },
+    {
+        "name": "システム工学研究会にて会長になる",
+        "description": "愛知工業大学公認サークルであるシステム工学研究会の会長になりました。IT技術を学びながらみんなで楽しめるサークルを目指しました。",
+        "link": "https://www.sysken.net/",
+        "icon": "/images/stack/sysken.png",
+        "date": "2023月 11月",
+        "tags": [
+            "sysken",
+            "会長",
+            "愛知工業大学"
+        ]
+    },
+    {
+        "name": "ライフイズテック株式会社でメンター業務を行う",
+        "description": "中高生にプログラミング技術を教える企業でメンターとして、主にSchool事業とキャンプ事業に携わり、プログラミングの指導や生徒のサポートを行っていました。",
+        "link": "",
+        "icon": "/images/stack/LifeIsTech.jpeg",
+        "date": "2023月 7月〜",
+        "tags": [
+            "Life is Tech",
+            "メンター",
+            "Unity",
+            "マインクラフト",
+            "Android"
+        ]
+    },
+    {
+        "header": true,
+        "name": "大学1年生"
+    },
+    {
+        "name": "株式会社Relicに長期インターンを行う",
+        "description": "新規事業の立ち上げを戦略/企画立案から開発、グロースまで一気通貫で行う事業を行う会社で、モバイルエンジニアとして、開発を行ってきた。",
+        "link": "",
+        "icon": "/images/stack/relic.png",
+        "date": "2023年 1月~2024年 8月",
+        "tags": [
+            "Loope",
+            "Flutter",
+            "iPhone"
+        ]
+    },
+    {
+        "name": "2022 サポーターズ技育キャンプvol8にて優秀賞の受賞",
+        "description": "ハッカソンの一つである、技育キャンプにて「FreeWi-Fi自走式バージョン」にて、優秀賞を受賞。",
+        "link": "https://docs.google.com/presentation/d/1MhENoy7cGI7D8h_mfGeelNVRtMiqpJYnAg76jblMr9g/edit?usp=sharing",
+        "icon": "/images/stack/ugoku-wifi.png",
+        "date": "2022年 10月",
+        "tags": [
+            "Free Wi-Fi",
+            "ラジコン",
+            "位置推定",
+            "ハッカソン"
+        ]
+    },
+    {
+        "name": "愛知工業大学内イベント「工科展」にて出展を行なった",
+        "description": "聞き逃しを0にするアプリ 「lock-on」を開発した。授業中に録音、文字起こしを行い、検索をしやすくする",
+        "link": "https://docs.google.com/presentation/d/19hfGsL4RcWEYaWnvI8wVFHDEn4ESP-D1JwsuGRzz4KY/edit?usp=sharing",
+        "icon": "/images/stack/lock-on.png",
+        "date": "2022年 10月",
+        "tags": [
+            "Android",
+            "文字起こし",
+            "授業",
+            "ハッカソン"
+        ]
+    },
+    {
+        "name": "2022年技育展「世の中を便利にする」部門にて登壇",
+        "description": "技育キャンプvol.5にて開発した、「隠れてTwitter見れる蔵」をパワーアップして登壇しました",
+        "link": "また書く",
+        "icon": "/images/stack/supporterz.png",
+        "date": "2022年 8月",
+        "tags": [
+            "iBeacon",
+            "Firebase",
+            "ハッカソン",
+            "Android",
+            "Raspberry Pi",
+            "大学生"
+        ]
+    },
+    {
+        "name": "2022年技育展「世の中を楽しくする」部門にて登壇",
+        "description": "技育キャンプvol.5にて開発した、「隠れてTwitter見れる蔵」をパワーアップして登壇しました",
+        "link": "また書く",
+        "icon": "/images/stack/supporterz.png",
+        "date": "2022年 8月",
+        "tags": [
+            "VSCode",
+            "拡張機能",
+            "ハッカソン",
+            "TwitterAPI"
+        ]
+    },
+    {
+        "name": "2022 Open Hack U 最優秀賞受賞",
+        "description": "すれ違い通信を持ちて周りの人からファッションをチェックしてもらうシステムの構築を行う",
+        "link": "また書く",
+        "icon": "/images/stack/xclothes.png",
+        "date": "2022年 8月",
+        "tags": [
+            "iBeacon",
+            "すれ違い通信",
+            "ファッションチェック",
+            "ハッカソン",
+            "TwitterAPI"
+        ]
+    },
+    {
+        "name": "2022 サポーターズ技育キャンプvol.5 努力賞受賞",
+        "description": "ハッカソンの一つである、技育キャンプにて「Twitter隠れてみれる蔵」にて、努力賞を受賞。VSCodeの拡張機能を用いてどんな環境にいてもTwitterを見ることができるサービスの開発をおこなった。",
+        "link": "https://docs.google.com/presentation/d/1R7RMgf7QMETiHLV6IiQ9v8B7a7I8NbyD3_B05A_ASPw/edit?usp=sharing",
+        "icon": "/images/stack/kakureteTwitter.png",
+        "date": "2022年 7月",
+        "tags": [
+            "VSCode",
+            "拡張機能",
+            "ハッカソン",
+            "TwitterAPI"
+        ]
+    },
+    {
+        "name": "2022サポーターズ技育キャンプvol.3 努力賞受賞",
+        "description": "ハッカソンの一つである、技育キャンプにて「部室の人数をリアルタイムで表示してくれるサービス〜人の入り見れる蔵〜」にて、努力賞を受賞。 ibeaconやFirebaseなどのさまざまな技術やプラットフォームを用いてチーム開発を行なった。",
+        "link": "https://docs.google.com/presentation/d/1nJJlpBWSvy_7nI_vquOpmU6FeEDkan8svN1KiU5exuY/present?slide=id.g132748071b6_4_45",
+        "icon": "/images/stack/hitonoirimireru.png",
+        "date": "2022年 6月",
+        "tags": [
+            "iBeacon",
+            "Firebase",
+            "ハッカソン",
+            "Android",
+            "Raspberry Pi",
+            "大学生"
+        ]
+    },
+    {
+        "name": "愛知工業大学入学",
+        "description": "情報科学部 情報科学科 コンピュータシステム専攻に入学し、より詳しい知識を勉強する。",
+        "link": "https://ait.ac.jp/",
+        "icon": "/images/stack/ait.jpg",
+        "date": "2022年 4月",
+        "tags": [
+            "大学生",
+            "入学"
+        ]
+    },
+    {
+        "header": true,
         "name": "高校生"
     },
     {
-        "name": "吹奏楽部入部",
-        "description": "プログラミング一色の人生ではなく、音楽の趣味も持っており、学校の定期演奏会などにクラリネットを持ち演奏をしています。",
-        "link": "",
-        "icon": "/images/stack/BrassBandPhoto.jpg",
-        "date": "2019年 4月",
+        "name": "豊川工科高校卒業",
+        "description": "情報システム科を卒業 電子回路やプログラミング基礎などを勉強し、課題研究では、Pythonを用いシューティングゲームを開発したり、WebにてSIWの開発をおこなった",
+        "link": "https://toyokawa-te.aichi-c.ed.jp/cms/",
+        "icon": "/images/stack/Toyokawa-te.jpg",
+        "date": "2022年 3月",
         "tags": [
-            "吹奏楽",
-            "高校生"
+            "高校生",
+            "卒業"
         ]
     },
     {
@@ -29,44 +240,14 @@
         ]
     },
     {
-        "name": "豊川工科高校卒業",
-        "description": "情報システム科を卒業 電子回路やプログラミング基礎などを勉強し、課題研究では、Pythonを用いシューティングゲームを開発したり、WebにてSIWの開発をおこなった",
-        "link": "https://toyokawa-te.aichi-c.ed.jp/cms/",
-        "icon": "/images/stack/Toyokawa-te.jpg",
-        "date": "2022年 3月",
+        "name": "吹奏楽部入部",
+        "description": "プログラミング一色の人生ではなく、音楽の趣味も持っており、学校の定期演奏会などにクラリネットを持ち演奏をしています。",
+        "link": "",
+        "icon": "/images/stack/BrassBandPhoto.jpg",
+        "date": "2019年 4月",
         "tags": [
-            "高校生",
-            "卒業"
-        ]
-    },
-    {
-        "header": true,
-        "name": "大学1年生"
-    },
-    {
-        "name": "愛知工業大学入学",
-        "description": "情報科学部 情報科学科 コンピュータシステム専攻に入学し、より詳しい知識を勉強する。",
-        "link": "https://ait.ac.jp/",
-        "icon": "/images/stack/ait.jpg",
-        "date": "2022年 4月",
-        "tags": [
-            "大学生",
-            "入学"
-        ]
-    },
-    {
-        "name": "サポーターズ技育キャンプ 努力賞受賞",
-        "description": "ハッカソンの一つである、技育キャンプにて「部室の人数をリアルタイムで表示してくれるサービス〜人の入り見れる蔵〜」にて、努力賞を受賞。 ibeaconやFirebaseなどのさまざまな技術やプラットフォームを用いてチーム開発を行なった。",
-        "link": "https://docs.google.com/presentation/d/1nJJlpBWSvy_7nI_vquOpmU6FeEDkan8svN1KiU5exuY/present?slide=id.g132748071b6_4_45",
-        "icon": "/images/stack/supporterz.png",
-        "date": "2022年 6月",
-        "tags": [
-            "iBeacon",
-            "Firebase",
-            "ハッカソン",
-            "Android",
-            "Raspberry Pi",
-            "大学生"
+            "吹奏楽",
+            "高校生"
         ]
     }
 ]
