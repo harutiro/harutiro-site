@@ -11,3 +11,6 @@ images: [ "/images/stack/droidkaigi.png" ]
 
 公式ホームページ
 [電池寿命を考えた位置情報の監視方法を考える（Geofence） | DroidKaigi 2024](https://2024.droidkaigi.jp/timetable/689944/)
+
+# 登壇した時の経験談
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSp96aKTl3zYBc9CQoc4dywk3ZO-Sh0QOPVeLU90DM4bJZUS6mTATizqsfnkxqF-TnjQCYI6GWZQuXO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
