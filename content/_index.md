@@ -22,26 +22,56 @@ title: HomePage
 
 # スキルセット
 
-<div class="bg-white rounded" style="display: flex; flex-wrap: wrap; ">
+ここにアイコンリストを表示する
+
+<!-- <div class="bg-white rounded" style="display: flex; flex-wrap: wrap; ">
 {{<embedLOG src="graph1.html">}}
 {{<embedLOG src="graph2.html">}}
 {{<embedLOG src="graph3.html">}}
-</div>
+</div> -->
 
-## 自信があるもの
-- Android
-- iOS
-- Flutter
-- Firebase
 
-## 趣味やサークルで学んだもの
-- Next
-- React
-- Ruby on Rails
-- Go (バックエンド)
-- Python (データ処理・グラフ表示等)
-- Docker
-- インフラ (ネットワークからサービス構築)
+## プログラミングにおける経歴
+
+### Kotlin・(Java)・Android (2020年8月~現状)
+JetpackCompose, Room,Realm, Retrofit,など
+モバイルアプリケーションの開発、開発やハッカソンなどで使用を行った。
+ハッカソンではHackUOnline2022にて、すれ違い時に服を気軽に評価するアプリXclothes、を作成した。
+
+### Swift・iOS (2023年1月~現在)
+SwiftUI,UIKit, AVFoundation,  Realm, など
+新規事業を中心とした受託会社Relicにて、iOSプログラマーとしてテストの記述やバグの修正、新規機能の開発を行った。
+
+### Flutter(2023年10月~2024年2月)
+新規事業を中心とした受託会社Relicにて、Flutterのテンプレートアプリの作成や、バグの修正、新規機能の開発を行った。
+
+### Python (2021年4月~現在)
+JupyterNotebook, matplotlib, nampy , Flask, FastAPI, selenium, Beautiful soup,など
+研究におけるデータ処理からグラフ化、またはちょっとしたAPIの作成や、人工知能など多岐に渡りしようした。
+
+### HTML・CSS・TypeScript・JavaScript (2022年4月~現在)
+Next.js, Hono, Vite, など
+ハッカソンやちょっとした自分で使うアプリケーションなどを作成する時にしようする。
+バックエンドから、フロントまで様々なところで利用をした。
+
+### Ruby on Rails  (2021年8月~2021年12月)
+フリーソフトや有料ソフトを共有できるサイトSystemInfomationWebを作成して、公開を行った。
+現在はHerokuの有料化により公開を中止した。
+このアプリケーションはアプリ甲子園と呼ばれるアプリで一次審査まで通った。
+
+### docker ubuntuServer proxmoxなどを用いたインフラ周りの開発 (2022年8月~現在)
+システム工学研究会というサークルにてラックサーバーを運用してその管理を行なっています。サーバーはovirtを用いて仮想化をしており、Webサイトや各サービスのAPIなどを運営しています。最近では、ovirtからProxmoxに移行をしており、サーバーの基礎を学びながら少しずつサークルのサーバーを運用できるように日々勉強を行なっています。今後サーバーの方針としては、Kubernetesを用い自動デプロイを行ったり、サークルのメンバにサーバーを簡単にレクチャーできるようになりたいと考えています。
+
+
+### C , C++ (2022年4月~2024年8月)
+学校の授業や画像処理にしようするためにしようした。
+画像処理ではOpenCVやOpenGLなどを利用して行い、ちょっとした人物判定などが行えるようになった。
+
+### Arduino , PIC , RaspberryPI「電子回路系」(2020年10月~現在)
+学校の授業から触り始めて、現在ではラジコンを改造してIoTで自動で動くラジコン「動くWi-Fi」を開発したり、自作キーボードの作成などを行った。
+また高校3年生の時に、総合競技大会と呼ばれる基盤を作成して、PICにプログラムを書き込む大会において総合8位を受賞した。
+
+
 
 # この先やっていきたいこと
 世の中のたくさんの人に使ってもらえる、人の役に立つアプリケーションを作成したいと考えています。
