@@ -1,6 +1,6 @@
 ---
 title: 株式会社CARTA HOLDINGSの2024年度インターン「treasure」に3週間参加しました。 
-date: 2025-02-05
+date: 2024-08-31
 images: [ "/images/stack/Treasure.jpg" ]
 ---
 
