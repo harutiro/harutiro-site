@@ -37,6 +37,13 @@
       <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;コンセプトとしては、簡単になおかつわかりやすく保存をするアプリとしています。&lt;/p&gt;&#xA;&lt;p&gt;ターゲットとしては、つい保存したデータを無くしてしまい、どこにやったのかわからなくなっている人としています。また、Lineなどのメッセージ系SNSを使いデータを保存していて、保存期間がついつい過ぎてしまいデータが消えてしまった経験をよくする人もしています。&lt;/p&gt;&#xA;&lt;p&gt;データの入力の面でポイントとなる機能は、共有を使い、ブラウザや文字などをアプリに飛ばし簡単にデータの保存をできること、そのときにファビコンやウェブページのタイトルの取得をしてくれることです。&#xA;また、タグを用いデータの探索の時間を大幅に削れるように工夫をしました。&lt;/p&gt;&#xA;&lt;p&gt;データの検索の面でのポイントとなる機能は、アーカイブ機能を用い、用済みになったデータと今必要なデータで仕分けができるようになった点です。他にはタイトルと内容に文字列検索をかけることができ、タグを付け忘れてしまったデータでも探せるようになりました。&lt;/p&gt;&#xA;&lt;p&gt;今回UI面でも気をつけて作成しました。誰が見ても直感的に操作ができるようにマテリアルデザインに準拠して作成をしました。&#xA;また、この項目が何を表しているのか見ただけでわかるようにIconを用いました。&lt;/p&gt;&#xA;&lt;p&gt;今後としては、FireBaseを用いデータをAndroidやios、PCでも確認できるようにすることや、タグを自動的に振り分けれるよにする機能などを追加していきたいと考えています。&lt;/p&gt;&#xA;&lt;h1 id=&#34;技術構成&#34;&gt;技術構成&lt;/h1&gt;&#xA;&lt;p&gt;作成の動機としては、前期、教科書の「Realm」と「リサイクラービュー」を用い、レシートをカメラを使い保存をするというアプリ「ＲｅｃｅＣａｍｅ」を作りました。しかし、たくさんデータを保存していくとデータがごちゃついて、探しにくくなってしまうと考えたため、そこに「分類」というアイディアを掛け合わせてみました。そして出来上がったアプリは、「Clips」です。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>「Clips」～新しいカタチのお気に入り保存アプリ～</title>
+      <link>http://localhost:1313/portfolio/hiddingtwitter/</link>
+      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/hiddingtwitter/</guid>
+      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;2022年技育展「世の中を楽しくする」部門にて登壇しました。&#xA;技育キャンプvol.5にて開発した、「隠れてTwitter見れる蔵」をパワーアップして登壇しました。&lt;/p&gt;&#xA;&lt;p&gt;この開発では、もしバレそうになったときに、バレないように隠す部分を作成しました。&#xA;具体的には、Twitterを見ているときにキーボードを叩くことで、それっぽくプログラミングを叩ける機能でしたり、ショートカットキーを押すことにより、それっぽいロード画面を表示する機能を開発しました。&lt;/p&gt;&#xA;&lt;p&gt;チームが多忙でなかなか一つにまとまらず、大変な時もありましたが、声掛けや、みんなで励ましあうことにより、最後まで走り切ることができました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;発表資料&#34;&gt;発表資料&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSBTAtr4QqVrw0j15aRLbPwpwTw22HQNohOXhLlvA0N9WgORFPd3ZB0V2tykjejSKmJNWNTcD5z3k-f/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
       <title>SIW 〜System Infomation Web〜</title>
       <link>http://localhost:1313/portfolio/siw/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>

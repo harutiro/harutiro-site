@@ -131,8 +131,8 @@
     },
     {
         "name": "2022年技育展「世の中を便利にする」部門にて登壇",
-        "description": "技育キャンプvol.5にて開発した、「隠れてTwitter見れる蔵」をパワーアップして登壇しました",
-        "link": "また書く",
+        "description": "技育キャンプvol.5にて開発した、「部屋の入り見れる像」をパワーアップして登壇しました",
+        "link": "https://docs.google.com/presentation/d/1nJJlpBWSvy_7nI_vquOpmU6FeEDkan8svN1KiU5exuY/edit?usp=sharing",
         "icon": "/images/stack/supporterz.png",
         "date": "2022年 8月",
         "tags": [
@@ -147,7 +147,7 @@
     {
         "name": "2022年技育展「世の中を楽しくする」部門にて登壇",
         "description": "技育キャンプvol.5にて開発した、「隠れてTwitter見れる蔵」をパワーアップして登壇しました",
-        "link": "また書く",
+        "link": "/portfolio/hiddingtwitter/",
         "icon": "/images/stack/supporterz.png",
         "date": "2022年 8月",
         "tags": [
@@ -160,7 +160,7 @@
     {
         "name": "2022 Open Hack U 最優秀賞受賞",
         "description": "すれ違い通信を持ちて周りの人からファッションをチェックしてもらうシステムの構築を行う",
-        "link": "https://harutiro.net/portfolio/xcloses/",
+        "link": "/portfolio/xcloses/",
         "icon": "/images/stack/xclothes.png",
         "date": "2022年 8月",
         "tags": [
