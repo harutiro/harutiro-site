@@ -20,6 +20,32 @@ title: HomePage
 
 私は日々の制作活動を通じて培った創造力と実行力が、将来的にも新たなイノベーションを生み出し、社会に貢献できるサービスを提供していきたいと考えています。
 
+# URLまとめ
+
+GitHub
+https://github.com/harutiro
+
+LAPRAS
+https://lapras.com/public/harutiro
+
+ブログ
+https://www.harutiro.net/
+
+Qiita
+https://qiita.com/harutiro
+
+Zenn
+https://zenn.dev/harutiro
+
+SlideShare
+https://speakerdeck.com/harutiro
+
+Wantedly
+https://www.wantedly.com/id/makino_haruto
+
+Connpass
+https://connpass.com/user/harutiro/
+
 # スキルセット
 
 ここにアイコンリストを表示する
