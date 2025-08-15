@@ -12,7 +12,7 @@ title: Business_Card
 https://twitter.com/set_official
 
 # Twitter
-https://twitter.com/minesu1224
+https://twitter.com/harutiro2727
 
 # Git
 http://github.com/harutiro
