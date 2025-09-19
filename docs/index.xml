@@ -1,166 +1,568 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>HomePage on harutiro&#39;s site</title>
-    <link>http://localhost:8080/</link>
-    <description>Recent content in HomePage on harutiro&#39;s site</description>
-    <generator>Hugo</generator>
-    <language>ja</language>
-    <lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>DroidKaigi2025に遊びにいきました</title>
-      <link>http://localhost:8080/articles/droidkaigi2025/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/articles/droidkaigi2025/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>牧野遥斗への質問をまとめてみました。</title>
-      <link>http://localhost:8080/articles/makinoqa/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/articles/makinoqa/</guid>
-      <description>&lt;h2 id=&#34;条件が厳しいor難しい課題が出た場合どうやって解決していくか&#34;&gt;条件が厳しいor難しい課題が出た場合、どうやって解決していくか？&lt;/h2&gt;&#xA;&lt;p&gt;GoogleAIチームの15分のルールというものがあり、それに準拠した考えをしていきたいと考えています。&#xA;具体的には、まずは自分で解決をできるように色々調べていきます。&#xA;QiitaやZenn、本やStackOverflow、公式リファレンスなどを用いて自分で考えていきたいです。&#xA;ですが、やはりプログラミングをやっていると調べてもどうしても解決ができないことがあると思います。&#xA;そういう時は、15分を目処に周りの上司や同僚に質問を行なって話し合いを行っていきたいと思っています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;最近の経験やプログラミングに興味を持ったきっかけは&#34;&gt;最近の経験やプログラミングに興味を持ったきっかけは？&lt;/h2&gt;&#xA;&lt;p&gt;プログラミングに出会ったきっかけは、私はマインクラフトだと思っています。&#xA;マインクラフトでMODと言われる、通常のゲームに対して有識者が新しい機能を追加するコンテンツがあるのですが、中学生の自分は、その様々な機能を追加していき、自分の思い描いた理想の世界を作れるということをしり感動をし、ぜひやってみたいと思いました。&#xA;しかし、プログラミング自体が初めてで、また、英語さえも読めなかった私は環境構築で躓き、最初は挫折をしてしまいました。&#xA;ですが、高校に入り、プログラミング体験ができる4日間のキャンプに参加し、Androidのプログラミングを行いました。そこで、ようやく環境構築もでき、最初やりたかったものとはかなり変わってしまいましたが、自分の思い描いた理想をパソコンを通して作り上げることができ感動をして、今もプログラミングを続けています。&#xA;今は、周りの様々な人を助けることができるアプリやサービスを作り上げていきたいと思っています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;普段コードを書くときに気を付けていることは&#34;&gt;普段コードを書くときに気を付けていることは？&lt;/h2&gt;&#xA;&lt;p&gt;最近プログラミングをする上で気をつけていることは、周りの人が書いているプログラムの考え方や、方針を汲み取って開発することだと思っています。&#xA;複数人で開発するのに、クラスの分け方、ディレクトリの分け方、変数の名前の付け方など、色々なところで違いが出てくると思います。&#xA;そこを自分一人の考えで自分が好きだからという理由だけで、推し進めてしまうと、周りの人との考えがぶつかってしまい、方針が定まらないコードを作成してしまうと思います。&#xA;ですので、しっかりと開発者がどのようにコードを書いていきたいのかを考え実装をしていきたいと思っています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;今後広げていきたい知識や能力の方向性は&#34;&gt;今後広げていきたい知識や能力の方向性は？&lt;/h2&gt;&#xA;&lt;p&gt;今後は、技術面で言えば、バックエンドの知識を、技術者で言えば、発信力を鍛えてきたいと思っています。&#xA;私は今までモバイルに関するプログラミングを行ってきました。Androidから始まり、iOS,Fltterなど様々なものに触れてきました、大学では、Webなどを開発してきました。大学などでチーム開発を行うたびに自分はバックのサーバーとの通信の仕方をあまり理解していないことに気づき、ぜひバックエンドの知識もつけ、より強いエンジニアになりたいと考えています。&lt;/p&gt;&#xA;&lt;p&gt;発信力でいうと、QiitaやZennに技術記事を書いたり、何か作品を作ったら、どの部分に苦労したかなどのブログを書いていきたいと思っています。&#xA;技術記事に関しては、自分の学びをアウトプットする機会になり、また文字に書き起こすため自分自身も整理され本当に素晴らしいタイミングだと思っています。ですが、今年は何か学んだとしても、QiitaやZennに記事に書くことがめんどくさいと思ってしまい後回しにしてしまいました、ですので、しっかりと書いていき、技術としても周りの人に残しておけるそんなエンジニアになりたいと思っています。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>私がモバイルを開発する理由</title>
-      <link>http://localhost:8080/articles/whymakemobile/</link>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/articles/whymakemobile/</guid>
-      <description>&lt;p&gt;私はこれまで、モバイルアプリ開発を通じて世界に変化をもたらしてきました。&lt;/p&gt;&#xA;&lt;p&gt;具体的には、スマートフォンのセンサーを活用して、服を共有し、すれ違いざまに気軽に評価できるアプリ「Xclothes」を開発したほか、電車の乗り過ごしを防止するアプリ「TrainAlert」も制作しました。&lt;br&gt;&#xA;「Xclothes」では、&lt;strong&gt;HackU Online 2022&lt;/strong&gt;で最優秀賞を受賞し、「TrainAlert」は累計100ダウンロードを超える成果を達成しました。&lt;/p&gt;&#xA;&lt;p&gt;これらのアプリを開発した背景には、私自身の悩みや不便さを起点に、同じような課題を抱える多くの人のために解決策を提供したいという思いがありました。痛みや不便さをどうすれば取り除けるかを考え、具体的な形に落とし込み、アプリとして解決策を実現してきました。&lt;/p&gt;&#xA;&lt;p&gt;特に、モバイル開発に注力してきた理由として、Web開発よりもユーザーに近い体験を提供できる点が挙げられます。スマートフォンという最も身近なデバイスを活用し、センサーでユーザーの行動を認識し、それに基づいてフィードバックを返すことで、大きな行動変容を促せる可能性があると考えています。&lt;/p&gt;&#xA;&lt;p&gt;今後は、より良いサービスを提供するために、技術力をさらに磨くとともに、多くの人にアプリを使ってもらい、フィードバックを積極的に取り入れながらアップデートを重ねていきたいと考えています。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Life is Tech株式会社さんでメンター業務を行っていました</title>
-      <link>http://localhost:8080/articles/lifeistech/</link>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/articles/lifeistech/</guid>
-      <description>&lt;p&gt;私は、中高生にプログラミング技術を教える企業でメンターとして、主にSchool事業とキャンプ事業に携わり、プログラミングの指導や生徒のサポートを行っていました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;学んだこと&#34;&gt;学んだこと&lt;/h1&gt;&#xA;&lt;p&gt;この経験を通じて、プログラミング技術の指導だけでなく、生徒を効果的にファシリテートするスキルも身につけました。生徒がどのようにすれば効率的に学び、ITを活用したものづくりに対して興味を持ち、楽しさを感じてもらえるかを常に考えていました。&lt;/p&gt;&#xA;&lt;p&gt;プログラミングの指導においては、生徒の理解度を的確に把握し、難しい概念を噛み砕いて伝えることを重視しました。理解が早い生徒には追加の資料を提供し、さらに発展的な学習やスピード感のある開発に繋げました。&lt;/p&gt;&#xA;&lt;p&gt;ファシリテートスキルとしては、生徒との視線を合わせたコミュニケーションや、グループ内での良好な関係を築く場作りを意識しました。メンターと生徒の信頼関係を深め、安心して学べる環境づくりを大切にしてきました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;大切にしていたこと&#34;&gt;大切にしていたこと&lt;/h1&gt;&#xA;&lt;p&gt;「Why don&amp;rsquo;t you change the world?」という言葉がLife is Techの理念として掲げられており、私自身もその考えに深く共感しています。プログラミングを教える際には、生徒たちに、まずは家族や友人など身近な人々からでも、世界に影響を与えることができるんだという意識を持たせるよう心がけました。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>DroidKaigi2024にて位置情報サービス(Geofence)の使い方について登壇をしました。</title>
-      <link>http://localhost:8080/articles/droidkaigi2024/</link>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/articles/droidkaigi2024/</guid>
-      <description>&lt;p&gt;位置情報技術に関する内容で発表を行いました。&#xA;内容としては、自作のGeofenceの使い方とGoogleMobileServiceのGeofenceの違いを述べたり、電池寿命を伸ばすための工夫などをスライド150ページほどでまとめました。&#xA;予想以上に多くの方にご関心をいただき、立ち見が出るほどの盛況となり、大変驚きました。一方で、発表時間の配分に課題があり、後半は内容を急いで説明せざるを得なくなる場面がありました。この経験から、次回以降は&lt;strong&gt;資料を早期に完成させ、十分な発表練習を行う&lt;/strong&gt;ことの重要性を改めて認識しました。&lt;br&gt;&#xA;それでも、多くの方から肯定的なフィードバックをいただき、また実験結果としてバッテリー寿命の改善を明確に示すことができた点は、大きな成果だと感じます。&lt;/p&gt;&#xA;&lt;p&gt;公式ホームページ&#xA;&lt;a href=&#34;https://2024.droidkaigi.jp/timetable/689944/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;電池寿命を考えた位置情報の監視方法を考える（Geofence） | DroidKaigi 2024&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;登壇した時の経験談&#34;&gt;登壇した時の経験談&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSp96aKTl3zYBc9CQoc4dywk3ZO-Sh0QOPVeLU90DM4bJZUS6mTATizqsfnkxqF-TnjQCYI6GWZQuXO/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>株式会社CARTA HOLDINGSの2024年度インターン「treasure」に3週間参加しました。</title>
-      <link>http://localhost:8080/articles/cartatreasure/</link>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/articles/cartatreasure/</guid>
-      <description>&lt;p&gt;このインターンでは、CARTA HOLDINGSが大切にしている超効率的なアジャイル開発の基本や、チーム開発におけるコミュニケーションの取り方などを学びました。プログラムの流れとしては、1週目にTypeScriptの基礎や、バックエンドフレームワークのHono、フロントエンドフレームワークのViteを学習。2週目には、チームに分かれてアイデア出しと企画書作成を行い、3週目には、その企画書をもとに開発を進め、最終日に発表を行いました。&lt;/p&gt;&#xA;&lt;p&gt;このインターンで最も驚かされたのは、常に本番環境を意識した話し合いや、無駄を一切許さない開発効率でした。本番環境を確認しながら進めるという点では、自分のローカル環境で問題なく動作していた機能も、複数人のコードがマージされると予期せぬ不具合が発生しがちな経験が多くありました。しかし、今回のインターンでは、細かい粒度でPRを行い、常に本番環境を意識して確認を行うことで、UI/UXの微細なズレや機能面での不統一を早期に発見し、これが現場レベルの開発であることを実感しながら進めることができました。&lt;/p&gt;&#xA;&lt;p&gt;次に、1分1秒も無駄にしない開発効率についてです。開発の手が少し空いた際にメンターから「周りの人からタスクをもらえることを考えたか？」と問われたことで、周囲の状況を常に意識し、次に自分ができることを探す姿勢が今後の成長に重要だと感じました。&lt;/p&gt;&#xA;&lt;p&gt;この3週間を通じて全てを吸収できたわけではありませんが、日々のチーム開発において本番環境をしっかり意識する心構えや、チームの状況を把握しながら自ら積極的に貢献できるように努めていきたいと思っています。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>株式会社Relicさんでインターンを行っていました</title>
-      <link>http://localhost:8080/articles/relic/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/articles/relic/</guid>
-      <description>&lt;p&gt;新規事業の立ち上げを戦略/企画立案から開発、グロースまで一気通貫で行う事業を行う会社で、モバイルエンジニアとして、開発を行ってきた。&lt;/p&gt;&#xA;&lt;p&gt;主に、現在はサービスが終了してしまったLoupeというアプリを開発しており、バグの修正から、新機能の開発などを担当した。&lt;/p&gt;&#xA;&lt;p&gt;公式サイトは無くなってしまったため、口コミサイトでのLoupeの情報&#xA;&lt;a href=&#34;https://prtimes.jp/main/html/rd/p/000000130.000016318.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://prtimes.jp/main/html/rd/p/000000130.000016318.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;学んだこととしては、技術面もたくさん学ばしてもらったが、一番印象に残ったことは開発を行う時のコミュニケーションだと考える。&#xA;私が、新機能の開発をしている時に動作が重くなってしまうコードを書いてしまい、そのままPRが通ってしまい、テスト配信をする時に動作が重くなったことが判明して、一時配信が遅延しかけてしまいましたが、自分が問題の原因を作ってしまったことを気づき、PMに相談して、ことなきを得たことがありました。&#xA;その時に、PRをするときは、しっかりと問題点を書き出したり、相談するときはDraftを用いるなど、ちょっとした気配りが、大事だと感じました。&#xA;また、怒られることを怖がって、相談しないで、闇に葬ろうとすると、原因究明に時間がかかり、工数が無駄にかかってしまうため、しっかりと相談をすることが大事だと感じた。&lt;/p&gt;&#xA;&lt;p&gt;他にも、Androidアプリで、新規事業をするときの技術調査を行ったりした。&#xA;現在は、Flutterを用いたテンプレートアプリを開発し、今後の新規事業に備え、開発を行っている。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>技術書展16と技書博10に出展していました！！</title>
-      <link>http://localhost:8080/articles/gizyutusyoten15_gisyohaku10/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/articles/gizyutusyoten15_gisyohaku10/</guid>
-      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;システム工学研究会のプロジェクトの一つである、シス研編集部の活動として同人誌を制作して、同人誌即売会で本の配布の方を行なっていました。&lt;/p&gt;&#xA;&lt;h2 id=&#34;技書博にて&#34;&gt;技書博にて&lt;/h2&gt;&#xA;&lt;p&gt;技書博では、基本的には本を売り上げるというより著者同士の絡みがとても強いイメージがあります。&#xA;色々なサークルの人とお話をゆっくり行なったり、その後の懇親会などではすごく色々な人と話したりして盛り上がりました。&#xA;また、色々な人がシステム工学研究会のサークルに遊びに来てもらいすごく色々なご意見や感想を聞けました！！！&lt;/p&gt;&#xA;&lt;img width=&#34;4032&#34; alt=&#34;IMG_1304.JPG (1.8 MB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/89309964-ce0e-415e-89d4-ca629aae6ac6.JPG&#34;&gt;&#xA;&lt;img width=&#34;3024&#34; alt=&#34;IMG_1310.JPG (1.1 MB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/07c4ea24-13a7-4666-8855-c2d0aaeb41fe.JPG&#34;&gt;&#xA;&lt;img width=&#34;3000&#34; alt=&#34;IMG_1327.PNG (519.4 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/7e315921-7dff-4e32-a315-e4b111279242.PNG&#34;&gt;&#xA;&lt;h2 id=&#34;技術書典にて&#34;&gt;技術書典にて&lt;/h2&gt;&#xA;&lt;p&gt;技術書典では、本当に色々な人が来てもらい、多種多様なご意見ご感想をいろいろ聞くことができました！！&#xA;鹿さんの本もとうとう印刷もできて実際の本として売ることができてとてもいい思い出となりました。&lt;/p&gt;&#xA;&lt;img width=&#34;4032&#34; alt=&#34;IMG_1398.JPG (760.9 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/5a3a25c2-f6e5-4581-8167-626f028134c7.JPG&#34;&gt;&#xA;&lt;img width=&#34;4032&#34; alt=&#34;IMG_1407.JPG (1.7 MB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/dbce9087-6b26-42fa-b98a-75327bb944fc.JPG&#34;&gt;&#xA;&lt;h2 id=&#34;最終売上&#34;&gt;最終売上&lt;/h2&gt;&#xA;&lt;p&gt;最終的な売上としては、サークル全体で約36万円ほど売上ました！！&#xA;ですが、本の印刷代などを考えるとかなりトントンの利益になってしまうのですが、学生サークルの身で利益がトントンとなるほど皆様の手にとっていただき本当にありがたい限りです。&#xA;ありがとうございました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;イベントを終えて&#34;&gt;イベントを終えて&lt;/h1&gt;&#xA;&lt;p&gt;システム工学研究会は、本の作成に関しては、最初は会誌として本を作成して、一度はコロナの時代もあり無くなってしまった文化だったのですが、技術書典や技書博などのイベントとメンバーのやる気に支えられてなんとか一年間活動を行うことができました！！&#xA;かなりお金を使う活動なため続けることは今後は難しくなってしまうかもしれませんが、自分がいる間は続くといいなぁと感じています。&lt;/p&gt;&#xA;&lt;h1 id=&#34;新刊一覧&#34;&gt;新刊一覧&lt;/h1&gt;&#xA;&lt;h2 id=&#34;proxmoxで作る超便利な自宅サーバーレシピ&#34;&gt;Proxmoxで作る超便利な自宅サーバーレシピ&lt;/h2&gt;&#xA;&lt;img width=&#34;306&#34; alt=&#34;image.png (72.6 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/0c4fc34b-7e67-478e-a649-796b96b8836e.png&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://techbookfest.org/product/8HATSEF31zuZAkeTAFe1m6?productVariantID=xpgxNEK7Tc4kdFdBDwBBCu&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;購入リンク&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;皆さんはサーバーを作った経験があるでしょうか。普段サーバー系の仕事をされている方でなければ、作ったとしてもNASやマイクラサーバーでしょう。今ではクラウド技術が発展し、サーバーレスと言われるようになりました。そんな中で当サークルでは今年、サーバーの全削除、再構築を行いました。それが楽しくて家でもサーバーを構築したところ、非常に便利なサーバーが完成しました。特に面白いのがProxmoxというOSで、仮想マシンの作成もバックアップも簡単に取れる優れものです。&#xA;このProxmoxを使って物理マシンの遠隔起動、家電コントロール、NAS、VPN、Mac・Ubuntu・Windowsの仮想マシンの構築。さらには、ポート開放なしでWebサイトの公開やVPNを実現しました。一台の物理マシンですべてのOSを動かし、遠隔で操作するという驚異的なものです。&#xA;今回は、Proxmoxをベースにした超便利な自宅仮想サーバーの一部を紹介します。&lt;/p&gt;&#xA;&lt;h2 id=&#34;icmpとarpを使って端末数を取得する本-with-golang&#34;&gt;ICMPとARPを使って端末数を取得する本 with Golang&lt;/h2&gt;&#xA;&lt;img width=&#34;306&#34; alt=&#34;image.png (56.6 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/a2af964c-20fc-4b06-a5e7-3e7bc0ed6b09.png&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://techbookfest.org/product/grANMCWwaEMshZTvmAjUT2?productVariantID=uZ7ZdHa2Q8ph3eKD9bvWHg&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;購入リンク&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;ネットワークの通信状態を確認するために使われるICMP、ネットワーク上のMACアドレスを取得するために使われるARP。2つのプロトコルについてと違いを解説しつつ、Linuxコマンドを使わずにGolangからネットワークに接続しているデバイス数を取得する手法を紹介した本です&lt;/p&gt;&#xA;&lt;h2 id=&#34;のんてさいなーのフロクラマーによるテサインのにけかた-これは本と言い張る版&#34;&gt;のんでざいなーのプログラマーによる、デザインのにげかた。 これは本と言い張る版&lt;/h2&gt;&#xA;&lt;img width=&#34;432&#34; alt=&#34;image.png (75.2 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/cc861551-e73c-4c0a-b1d2-7469da7652ea.png&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://techbookfest.org/product/wDGvtDay1KCX9bUraFuVEW?productVariantID=5AJQx2Sr28Ugwaa7yt8L0B&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;購入リンク&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;この本？はサークルを運営していて、デザインをどうしたらまともになるのかを話し合うことがあり、その時に作った本？になります。&#xA;デザイン自体を作成するときは、天性の才能のように感じますが、最低限それっぽく見せるだけでしたら、才能ではなく知識でカバーをすることができます。&#xA;例えば、余白を取るだったり、しっかり整列をさせて作ろうなどです。&#xA;そう言った、初めてデザインをする人がミスしやすいところや、一番気をつけて欲しいところ自分なりにまとめた本になります。&lt;/p&gt;&#xA;&lt;h2 id=&#34;google検索及ひエラーの解決方法生成aiも活用使用これは本と言い張る版&#34;&gt;Google検索及びエラーの解決方法　生成AIも活用使用！　これは本と言い張る版&lt;/h2&gt;&#xA;&lt;img width=&#34;432&#34; alt=&#34;image.png (60.8 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/5cf83012-3414-4f00-bc05-e9a108b69971.png&#34;&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://techbookfest.org/product/gD8S4zqs0wms4htGgXTJzi?productVariantID=ibwWUbMU7mFM3DmDzRN52t&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;購入リンク&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;この本？はサークルを運営していて、初めてプログラミングを勉強し始めた人たちに向けて作成した、Google検索のやり方出会ったり、エラーの検索の仕方をまとめた本！！になります。&lt;/p&gt;&#xA;&lt;p&gt;今までエラーの検索の仕方などをなかなかまとめられている記事が少なく、簡単にまとまっているものが少ないと思ったため、作成をしました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;賞について&#34;&gt;賞について&lt;/h1&gt;&#xA;&lt;p&gt;第十回技書博にて（技術同人誌博覧会）[優秀賞]をいただきました！！&lt;/p&gt;&#xA;&lt;p&gt;佐藤くんが作成したProxmoxで作る超便利な自宅サーバーレシピにおいて、評価をされて賞を受賞しました！！&#xA;佐藤くんもすごく賞をもらった後すごく喜んでいました。&lt;/p&gt;&#xA;&lt;img width=&#34;3520&#34; alt=&#34;IMG_1298.JPG (415.7 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/56ff860d-172e-48f3-ab78-3b4a04e50774.JPG&#34;&gt;&#xA;&lt;h1 id=&#34;投稿者&#34;&gt;投稿者&lt;/h1&gt;&#xA;&lt;p&gt;k22120 牧野遥斗&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Androidを勉強してみようの記事 in 2024</title>
-      <link>http://localhost:8080/articles/androidstudyin2024/</link>
-      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/articles/androidstudyin2024/</guid>
-      <description>&lt;h1 id=&#34;環境について&#34;&gt;環境について&lt;/h1&gt;&#xA;&lt;p&gt;今回のAndroidStudioのバージョンは&lt;code&gt;Android Studio Jellyfish | 2023.3.1&lt;/code&gt;でやっていきます。&lt;/p&gt;&#xA;&lt;img width=&#34;450&#34; alt=&#34;image.png (120.6 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/13979/2024/05/02/129607/c852792c-03a0-4245-a48e-408f9f224ea6.png&#34;&gt;&#xA;&lt;p&gt;最近のバージョンだとGeminiを用いてAIと対話しながら開発ができるらしいです。&#xA;使ったことはないのでどれくらい精度がいいかはわかりませんが、GitHubCopilotくんを使うお金がない方などは使ってみてもいいかもしれないです。&#xA;&lt;img width=&#34;627&#34; alt=&#34;スクリーンショット 0006-05-02 0.25.50.png (303.4 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/13979/2024/05/02/129607/aa71ee20-7697-43c8-bfd4-78a890a82b22.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;とりあえず、最新を使いましょう。&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://developer.android.com/studio?hl=ja&amp;amp;_gl=1*160el0k*_up*MQ..*_ga*Mzk0Nzg2Nzg0LjE3MTQ1NzY3MzE.*_ga_6HH9YJMN9M*MTcxNDU3NjczMC4xLjAuMTcxNDU3NjczMC4wLjAuMA..&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;インストールリンク&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;最初の導入-モバイル開発とはどんな感じかをお話しします&#34;&gt;最初の導入 モバイル開発とはどんな感じかをお話しします。&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSUYHaglKjkocTvVgLCKw5Np0DlzyVuDR6EtEP6XvlCDhbxPmuVkm45SiZ5Z4NitAO4jxTY8XYJyQGj/embed?start=false&amp;loop=true&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/1wgY9WbdLNKvvWbbJlmStjmwVL3vXPX_CoIOe4G8A7Gk/edit?usp=sharing&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;スライドリンク&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;おすすめの本&#34;&gt;おすすめの本&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;おすすめの本&#xA;&lt;ul&gt;&#xA;&lt;li&gt;初めてのAndroidプログラミング&#xA;&lt;img width=&#34;300&#34; alt=&#34;71ce43XdxlL.jpg (231.8 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/13979/2021/06/10/84962/cfe0ba13-5889-4a67-86f0-d16e41eae674.jpg&#34;&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;androiddevelopersは便利だよ&#34;&gt;AndroidDevelopersは便利だよ&lt;/h1&gt;&#xA;&lt;p&gt;ちょっと前までは英語の記事だったり、少しわかりずらいなどがありましたが、今はすごくわかりやすくいい記事がたくさんあります。&#xA;ぜひ、ここの公式サイトを色々みてみると面白いかもしれないです。&#xA;&lt;a href=&#34;https://developer.android.com/?hl=ja&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://developer.android.com/?hl=ja&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;ライフサイクルは大事よくわからなかったら飛ばしてもok&#34;&gt;ライフサイクルは大事(よくわからなかったら飛ばしてもOK)&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ただのJavaのプログラムとAndroidのアプリの違いは？&lt;/li&gt;&#xA;&lt;li&gt;Androidアプリには、端末サイドでアプリを起動した時、アプリを立ち上げた後にホームに戻った時、アプリをタスキルした時とかタイミングがある。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img width=&#34;513&#34; alt=&#34;activity_lifecycle.png (45.7 kB)&#34; src=&#34;https://img.esa.io/uploads/production/attachments/13979/2021/07/09/84962/06cd2b16-5e50-4bf5-9102-51d265ba0a53.png&#34;&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;↑アクティビティのライフサイクル。&lt;/li&gt;&#xA;&lt;li&gt;アプリは起動すると、作られて、始まって、、、みたいなの。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;具体的な内容&#34;&gt;具体的な内容&lt;/h1&gt;&#xA;&lt;p&gt;以下の記事をみなさんに進めてもらいます。&#xA;その中でわからないところがあったら、適宜教えにいくスタイルにします。&#xA;残り1時間ぐらいになったら、今できている範囲で何か面白いひと工夫をWebなどで調べながら実装してもらって、少し発表会をして終わる感じにします。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-app&amp;amp;%3Bhl=ja&amp;amp;hl=ja#0&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;AndroidでHelloWorld&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;とりあえず、アプリを作ってみて、出力される文字を変えてみるだけ。&lt;/li&gt;&#xA;&lt;li&gt;動作確認だけです。&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;JetpackComposeで画面の表示の基礎&#xA;&lt;ul&gt;&#xA;&lt;li&gt;わかるところは飛ばして進めます。&lt;/li&gt;&#xA;&lt;li&gt;一部いらないところはスキップしていきます。&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://developer.android.com/courses/android-basics-compose/unit-1?hl=ja&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;ユニット 1: 初めての Android アプリ&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://developer.android.com/courses/android-basics-compose/unit-2?hl=ja&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;ユニット 2: アプリ UI を作成する&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://developer.android.com/courses/android-basics-compose/unit-3?hl=ja&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;ユニット 3: リストの表示とマテリアル デザインの使用&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Androidを使いこなす&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://developer.android.com/courses/android-basics-compose/unit-5?hl=ja&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;ユニット 5: インターネットに接続する&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://developer.android.com/courses/android-basics-compose/unit-6?hl=ja&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;ユニット 6: データの永続化&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>TrainAlert「トレアラ」～電車乗り過ごし防止アプリ～</title>
-      <link>http://localhost:8080/portfolio/trainalert/</link>
-      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/trainalert/</guid>
-      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;電車に乗っている際には様々な誘惑があると思います。&#xA;スマホを開けば、様々なコンテンツが広がり、椅子に座れば寝ることもできます。&#xA;そんな車内においてやれることが多い電車という交通手段ですが、一方でつい別のことに気をとられてしまい、乗り過ごしてしまうことがあります。&lt;/p&gt;&#xA;&lt;p&gt;この課題を解決するため、「トレアラ」は自動で通知を送信します。&#xA;事前に降車駅や乗換駅、乗る時間帯などの情報を登録しておくことで、駅に到着する前に通知を送信し、あなたのスマホがもうすぐ降りる時間であることをお知らせしてくれます。&lt;/p&gt;&#xA;&lt;p&gt;拘ったポイントとしては、上記の機能に加えてUIが挙げられます。&#xA;誰が見ても直感的に操作ができるようにするためにマテリアルデザインに準拠したデザインを活用し、各項目が何を表しているのか見ただけでわかるようにするためにIconを活用するといったの工夫を行いました。&#xA;またGoogleMapをアプリ内に埋め込むことで、どこの駅で通知をされるのか円や線を用いて表示し、リアルタイムで閲覧することもできます。&lt;/p&gt;&#xA;&lt;p&gt;今後としては現在いただいたフィードバックをもとに、通知メッセージをタップするまでの間はバイブレーションを止めないようにする機能や、イヤホン装着時のみ通知に音を流すなど、通知機能に関する強化を行っていきたいと考えています。&#xA;また細かいUIを改善していき、ユーザー目線の開発を行っていく予定です。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>TrainAlert2「トレアラ」～電車乗り過ごし防止アプリ～</title>
-      <link>http://localhost:8080/portfolio/trainalert2/</link>
-      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/trainalert2/</guid>
-      <description>&lt;h1 id=&#34;作品概要&#34;&gt;作品概要&lt;/h1&gt;&#xA;&lt;p&gt;作業期間：約3ヶ月&#xA;関係者人数：4人&#xA;担当役割：開発サポート、リリース、プロジェクトマネージャー、アイディア出し&#xA;使用技術：Android、Kotlin、Jetpack Compose、Room&#xA;プロジェクトURL&#xA;&lt;a href=&#34;https://github.com/kajiLabTeam/TrainAlert2&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://github.com/kajiLabTeam/TrainAlert2&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;アプリの特徴&#34;&gt;アプリの特徴&lt;/h1&gt;&#xA;&lt;p&gt;電車内でうとうとして乗り過ごしを防ぐために、降りる駅が近づくと自動的にアラートを発するアプリです。面倒なタイマー設定が不要で、事前に目的地を設定しておくだけで利用できます。Google Maps APIを活用し、直感的に駅を選択して登録できるようにしました。&lt;/p&gt;&#xA;&lt;h3 id=&#34;開発のきっかけ&#34;&gt;開発のきっかけ&lt;/h3&gt;&#xA;&lt;p&gt;このアプリは、高校時代に作成した「TrainAlert」のリメイク版です。位置情報やHuman Computer Interaction（HCI）に関心を持つ研究室での勉強として開発を開始し、位置情報の利用方法やフィードバックの設計を学ぶ良い機会となりました。また、過去の作品を自分の知識で再構築したいという思いもあり、Android ViewからJetpack Compose、RealmからRoomに変更し、クリーンアーキテクチャを意識したフォルダ構成に刷新しました。&lt;/p&gt;&#xA;&lt;p&gt;以前のアプリ&#xA;過去に作成したバージョンも以下でご覧いただけます。&#xA;&lt;a href=&#34;https://play.google.com/store/apps/details?id=app.makino.harutiro.trainalert&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://play.google.com/store/apps/details?id=app.makino.harutiro.trainalert&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;自分の役割と技術面で最も苦労した点工夫した点&#34;&gt;自分の役割と技術面で最も苦労した点・工夫した点&lt;/h1&gt;&#xA;&lt;h3 id=&#34;担当分野使用技術&#34;&gt;担当分野・使用技術&lt;/h3&gt;&#xA;&lt;p&gt;私の役割は、開発サポート、リリース準備、プロジェクトマネジメント、アイディア出しなど幅広く担当しました。また、AndroidとKotlinを用い、Jetpack ComposeやRoomといった最新技術を活用しながら、アプリの設計と開発に携わりました。&lt;/p&gt;&#xA;&lt;h3 id=&#34;技術面での工夫&#34;&gt;技術面での工夫&lt;/h3&gt;&#xA;&lt;p&gt;チームで進める中で、各メンバーが学びながら参加できるように配慮しました。技術力の差が生まれがちですが、定期的なミーティングやペアプロを実施し、理解度のギャップを埋めつつプロジェクト全体を進めました。メンバーが置いていかれないよう、チーム全体での成長を目指したことが成果につながったと感じています。&lt;/p&gt;&#xA;&lt;h3 id=&#34;最も苦労した点&#34;&gt;最も苦労した点&lt;/h3&gt;&#xA;&lt;p&gt;Geofenceを用いた降車駅付近での通知機能の実装です。降車駅の600m手前で通知を発するため、DroidKaigiで私が登壇した内容を使用して、電池消費を抑えつつ精度の高いGeofenceを設定する工夫を凝らしました。また、通知に関しては、通常の通知に加えて音や光、バイブレーションなどを取り入れ、利用者が確実に気づけるような多様なアラート機能を搭載しました。&lt;/p&gt;&#xA;&lt;h3 id=&#34;今後の展望&#34;&gt;今後の展望&lt;/h3&gt;&#xA;&lt;p&gt;現段階ではバックエンドの不足や使い勝手の改善が必要で、リリースには至っていません。しかし、引き続き更新を行い、リリースを目指しています。また、このアプリを定期的にアップデートし、継続的に改善・発展させていく予定です。&lt;/p&gt;&#xA;&lt;h1 id=&#34;発表資料&#34;&gt;発表資料&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vTDZSHJ29sa8ME7Kr0JZJr5MuCd-JVeNR33wDKdAVGy7wiA2L61Svi0CIKvtDaK_IyQ6izVTr0KrSO4/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>XClothes ～すれ違ったタイミングで服を評価するサービス～</title>
-      <link>http://localhost:8080/portfolio/xcloses/</link>
-      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/xcloses/</guid>
-      <description>&lt;h1 id=&#34;発表資料&#34;&gt;発表資料&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vR05zbBo_ui9corepBfe5QWJPjI9AWXjBxwOIbBKYOukyjFgnLRKDlSbI6gQhAlSA/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;1280&#34; height=&#34;749&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h1 id=&#34;作品概要&#34;&gt;作品概要&lt;/h1&gt;&#xA;&lt;p&gt;Yahoo開催のハッカソン「HackU」に研究室のメンバーと参加をして、最優秀賞を取得しました。&lt;/p&gt;&#xA;&lt;p&gt;このハッカソンでは、ユーザーが悩んでいる事柄について解決するアプリケーションを開発したいと思いました。&lt;/p&gt;&#xA;&lt;p&gt;今回私たちが作ったサービスのターゲットは、着ている服のセンスについて悩んでいるユーザーです。自分の服について周りの友達に聞いてみると、気を遣って偏った評価をされてしまいます。そこで、自分の周りですれ違った人から評価をしてもらうことにより、より客観的な評価をもらうことができます。&lt;/p&gt;&#xA;&lt;p&gt;このイベントに参加をして、様々なAndroidの技術とチーム開発の行いかたを学ぶことができました。 チーム開発ですので、周りの状況が今どうなっているのかを判断して、周りの開発物と、自分の開発したものを連携する時に、仕様が違っていてうまく接続できなかったりした時が多々ありました。&lt;/p&gt;&#xA;&lt;p&gt;しっかりと仕様など、コアに関わる部分はミーティングや、仕様書を作るなどみんなで確認をしていく必要があるととても感じました。&lt;/p&gt;&#xA;&lt;p&gt;結果として審査員の人たちに自分達が作成したものをしっかりと伝えることができ、最優秀賞という結果を得ることができました。&lt;/p&gt;&#xA;&lt;p&gt;この開発を最後までやり遂げることができたのは、先輩たちの圧倒的なサポートをしてくれて、それに応えたかったからです。 そして、チームで開発すると、どんどん進捗が上がって、自分一人では何週間もかかるものが3日ぐらいで完成してしまう、そういったところにワクワクして開発を最後まで進めることができました。&lt;/p&gt;&#xA;&lt;p&gt;大学のNews&#xA;&lt;a href=&#34;https://www.ait.ac.jp/news/detail/0006725.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://www.ait.ac.jp/news/detail/0006725.html&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;研究室ウェブページ&#xA;&lt;a href=&#34;https://kajilab.net/hpg/blog/2022-09-22/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://kajilab.net/hpg/blog/2022-09-22/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;最優秀賞&#xA;&lt;a href=&#34;https://hacku.yahoo.co.jp/hacku2022online/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://hacku.yahoo.co.jp/hacku2022online/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;発表URL&#xA;&lt;a href=&#34;https://youtu.be/7FXVGig5vFY?t=4303&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://youtu.be/7FXVGig5vFY?t=4303&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「Clips」～新しいカタチのお気に入り保存アプリ～</title>
-      <link>http://localhost:8080/portfolio/clips/</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/clips/</guid>
-      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;コンセプトとしては、簡単になおかつわかりやすく保存をするアプリとしています。&lt;/p&gt;&#xA;&lt;p&gt;ターゲットとしては、つい保存したデータを無くしてしまい、どこにやったのかわからなくなっている人としています。また、Lineなどのメッセージ系SNSを使いデータを保存していて、保存期間がついつい過ぎてしまいデータが消えてしまった経験をよくする人もしています。&lt;/p&gt;&#xA;&lt;p&gt;データの入力の面でポイントとなる機能は、共有を使い、ブラウザや文字などをアプリに飛ばし簡単にデータの保存をできること、そのときにファビコンやウェブページのタイトルの取得をしてくれることです。&#xA;また、タグを用いデータの探索の時間を大幅に削れるように工夫をしました。&lt;/p&gt;&#xA;&lt;p&gt;データの検索の面でのポイントとなる機能は、アーカイブ機能を用い、用済みになったデータと今必要なデータで仕分けができるようになった点です。他にはタイトルと内容に文字列検索をかけることができ、タグを付け忘れてしまったデータでも探せるようになりました。&lt;/p&gt;&#xA;&lt;p&gt;今回UI面でも気をつけて作成しました。誰が見ても直感的に操作ができるようにマテリアルデザインに準拠して作成をしました。&#xA;また、この項目が何を表しているのか見ただけでわかるようにIconを用いました。&lt;/p&gt;&#xA;&lt;p&gt;今後としては、FireBaseを用いデータをAndroidやios、PCでも確認できるようにすることや、タグを自動的に振り分けれるよにする機能などを追加していきたいと考えています。&lt;/p&gt;&#xA;&lt;h1 id=&#34;技術構成&#34;&gt;技術構成&lt;/h1&gt;&#xA;&lt;p&gt;作成の動機としては、前期、教科書の「Realm」と「リサイクラービュー」を用い、レシートをカメラを使い保存をするというアプリ「ＲｅｃｅＣａｍｅ」を作りました。しかし、たくさんデータを保存していくとデータがごちゃついて、探しにくくなってしまうと考えたため、そこに「分類」というアイディアを掛け合わせてみました。そして出来上がったアプリは、「Clips」です。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>「Clips」～新しいカタチのお気に入り保存アプリ～</title>
-      <link>http://localhost:8080/portfolio/hiddingtwitter/</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/hiddingtwitter/</guid>
-      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;2022年技育展「世の中を楽しくする」部門にて登壇しました。&#xA;技育キャンプvol.5にて開発した、「隠れてTwitter見れる蔵」をパワーアップして登壇しました。&lt;/p&gt;&#xA;&lt;p&gt;この開発では、もしバレそうになったときに、バレないように隠す部分を作成しました。&#xA;具体的には、Twitterを見ているときにキーボードを叩くことで、それっぽくプログラミングを叩ける機能でしたり、ショートカットキーを押すことにより、それっぽいロード画面を表示する機能を開発しました。&lt;/p&gt;&#xA;&lt;p&gt;チームが多忙でなかなか一つにまとまらず、大変な時もありましたが、声掛けや、みんなで励ましあうことにより、最後まで走り切ることができました。&lt;/p&gt;&#xA;&lt;h1 id=&#34;発表資料&#34;&gt;発表資料&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vSBTAtr4QqVrw0j15aRLbPwpwTw22HQNohOXhLlvA0N9WgORFPd3ZB0V2tykjejSKmJNWNTcD5z3k-f/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>esaをCMSにしてGitHubActionsとhugoを用いて自動でホームページを更新する方法の考案</title>
-      <link>http://localhost:8080/portfolio/esa_cms_githubaction/</link>
-      <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/esa_cms_githubaction/</guid>
-      <description>&lt;p&gt;概要：esaをCMSにしてGitHubActionsとhugoを用いて自動でホームページを更新する方法の考案という技術系同人誌を作成し、技書博8・技術書店15・技書博9で配布した&lt;/p&gt;&#xA;&lt;p&gt;取り組んだ場所:自主制作&lt;/p&gt;&#xA;&lt;p&gt;技術スタック:esaで記事を書き込んだら、自動的にGitHubのレポジトリにmdが更新され、その後GitHubActionsを走らせることで、Hugoで作成したテンプレートに合わせ静的ファイルを生成し公開した。&lt;/p&gt;&#xA;&lt;p&gt;工夫した点:今までQiitaやZennなどで技術系の記事を書いてきたが、本という形で技術をまとめて実際に手渡しで本を配布することで、色々な人と意見を交換しながら様々な知見を学ぶことができた。30部配布できた。&lt;/p&gt;&#xA;&lt;p&gt;その他URL:https://techbookfest.org/product/u9VjvGAurk4cZDbe0PB8L1?productVariantID=nAfKg0eQQCk7uf3X2UNg3J&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>SIW 〜System Infomation Web〜</title>
-      <link>http://localhost:8080/portfolio/siw/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/siw/</guid>
-      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;便利なサービス、アプリ、ソフトウェアを紹介しあえるサイト「system infomation web」以下SIWを開発しました。&lt;/p&gt;&#xA;&lt;p&gt;今回解決する問題は、サービスやアプリを紹介しにくく、それをさがしにくい環境を打破することです。&lt;/p&gt;&#xA;&lt;p&gt;私は、便利なツールを見つけるとき、友達やITの強い先輩などからおすすめをしてくれることが一番多かったと感じています。しかし、こういった環境にいられることは珍しいと感じ、「他の人にも共有をし、見てもらう」そういった情報を共有しあえる環境を作るべきではないかと考えました。&lt;/p&gt;&#xA;&lt;p&gt;現状、情報を共有しあえる環境はツイッターでつぶやいたり、友達同士で口頭で伝え合うぐらいしかできませんでした。&#xA;しっかりとしたフォーマットがあるわけでもないので、情報が乱雑としてしまい、ましては全く関係ない情報と混ざってしまうことさえありました。&lt;/p&gt;&#xA;&lt;p&gt;これらを解決するため、「SIW」にはしっかりとした投稿フォームを設けて、誰でも統一された情報を投稿できるようになりました。&#xA;また、公式URLを乗せるだけで自動的に貼り付けてくれるようになるため、たくさんの資料を集めるという手間を極限まで減らし、できる限り減らせるようにしました。&lt;/p&gt;&#xA;&lt;p&gt;今後としては、フィードバックを元に、現在投稿したものを誰でも編集できてしまう問題を解決するため、ツイッターアカウントと連携をして投稿した主以外からは編集できなくする機能、またそのツイッターのアイコンを表示する機能を作成しようと考えています。&#xA;タグ選択をして、元に戻すための「すべて」タグの実装や、投稿がたくさん増えてきたときに一気に表示されると重くなってしまうことを防ぐため、数を絞り、ページを複数に分ける機能などを作成しようと考えています。&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;何ができるアプリなのか簡単に述べる&lt;/li&gt;&#xA;&lt;li&gt;解決する課題について触れる&lt;/li&gt;&#xA;&lt;li&gt;既存のアプリ・サービスでは不十分な点について述べる&lt;/li&gt;&#xA;&lt;li&gt;提案するアプリがその課題を解決する方法について述べる&lt;/li&gt;&#xA;&lt;li&gt;今後について&#xA; &lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h1 id=&#34;アピールポイント&#34;&gt;アピールポイント&lt;/h1&gt;&#xA;&lt;p&gt;誰でもわかりやすく投稿をできるように、マテリアルデザインを用いて直感的に操作できるように心がけました。&lt;/p&gt;&#xA;&lt;p&gt;投稿するときに何を書いたらいいのかわからなくならないように、細かくフォームを分けることにより何を書いたらいいのか迷いにくくなるように作成しました。&lt;/p&gt;&#xA;&lt;p&gt;たくさんの資料を探したり作成する手間を削減し、なおかつ見ただけでどのようなソフトなのかをわかりやすくするため、公式のURLを用いることによりアイコンとそのページのイメージ画像を取得できるようにしました。&lt;/p&gt;&#xA;&lt;p&gt;このソフトは自分のOSに対応しているのかわからず、実際に調べてみると対応してなくて悲しい思いをしたということを極限まで減らすため、対応OSを表示するようにフォームに追加をしました。&lt;/p&gt;&#xA;&lt;p&gt;フォームにジャンルを設けることにより、自分のやりたいことに合わせて調べることができるようになりました。&lt;/p&gt;&#xA;&lt;p&gt;このソフトは使ってみてとっても良かったと投稿した人にフィードバックを返せるようにいいねボタンを追加しました。&#xA; &lt;/p&gt;&#xA;&lt;h1 id=&#34;使用方法&#34;&gt;使用方法&lt;/h1&gt;&#xA;&lt;p&gt;自分の使っているサービスを紹介したい場合。&#xA;１．各フォームに自分の紹介したいサービスの名称や特徴などを記入をする。&#xA;※ユーザーアイコンは各自のローカルのデータを投稿することにより自由に変更することができます。アイコンを投稿しない場合、ノーマルの画像になります。&#xA;２．最後に追加と押すことにより、皆さんに紹介されるようになります。&#xA;３．再度編集をしたい場合、編集をしたい投稿の鉛筆マークを押すことにより再度編集をすることができます。&#xA;４.　間違えて投稿をしてしまったものはゴミ箱ボタンを押すことにより消去をすることができます。&lt;/p&gt;&#xA;&lt;p&gt;投稿されているサービスを確認したい場合。&#xA;・下にスクロールをしていくとみなさんが投稿をしてくれた情報を確認することができます。&#xA;※すでにherokuに公開をして、３０件以上の投稿が公開されています。&#xA;データベースのseedに投稿されているデータを初期データとして保存しましたので、seedを実行してもらえるとたくさんのデータが有る状態で審査が行えると思われます。&#xA;seedがうまく実行できなかった場合、こちらのサイトでどんなイメージで動くのか触ってもらえると助かります。&#xA;&lt;a href=&#34;https://pacific-stream-72094.herokuapp.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://pacific-stream-72094.herokuapp.com/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;・便利なサービス、面白いソフト、アプリだと感じたらいいねを押すことにより、投稿主にエールや元気、活力が送られます。&lt;/p&gt;&#xA;&lt;p&gt;・公式ページに飛びたい場合、投稿された情報の右下のピンク色のボタンを押してもらえると飛ぶことができます。&lt;/p&gt;&#xA;&lt;h1 id=&#34;発表資料&#34;&gt;発表資料&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQ0k5ZSRCAPHq-VJP_nfc6UyppwyyjZeieWyBv868i8LI2-HUS6JQo6oQ3Fce5Dg6Duj3Asq2xRoCiY/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>サーマルプリンタで会計アプリの作成</title>
-      <link>http://localhost:8080/portfolio/thermal_printer/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/thermal_printer/</guid>
-      <description>&lt;p&gt;サークル内で使用するダウンロードカードの印刷兼カウントアプリの作成を行いました。&#xA;このアプリは、配布した本をダウンロードするためのカードをその場で印刷しながら、購入数のカウントを行えるため、売り子さんの手間を減らすことができました。それによって数え間違えを無くし、誤差を0円にすることができました。&lt;/p&gt;&#xA;&lt;p&gt;詳しくは、本を書く予定ですので、そちらを参考にしていただけると助かります。&lt;/p&gt;&#xA;&lt;h1 id=&#34;発表資料&#34;&gt;発表資料&lt;/h1&gt;&#xA;&lt;iframe src=&#34;https://docs.google.com/presentation/d/e/2PACX-1vQYUeOK972CkVwkCuvgOnc79LOENA2pqj7H6gVy4zjw91-By4t6MSJO3yLOgUM2iB6sKoIER5QjGmqt/embed?start=false&amp;loop=false&amp;delayms=3000&#34; frameborder=&#34;0&#34; width=&#34;960&#34; height=&#34;569&#34; allowfullscreen=&#34;true&#34; mozallowfullscreen=&#34;true&#34; webkitallowfullscreen=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    <item>
-      <title>サーマルプリンタで会計アプリの作成方法について本を書きました。</title>
-      <link>http://localhost:8080/portfolio/thermal_printer_book/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/thermal_printer_book/</guid>
-      <description>&lt;p&gt;この本は、自分がサークルに導入したサーマルプリンターを用いたダウンロードカードを制作するにあたって、なぜそのアプリを作成したのか、そしてどのように作成したのかをまとめた本になります。&lt;/p&gt;&#xA;&lt;p&gt;具体的にサーマルプリンターを用いて印刷をする方法は時間の関係でまとめることができなかったので、後日時間が取れましたら、作成をする予定です。&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;初出イベント: 技術書典17&lt;/li&gt;&#xA;&lt;li&gt;ページ数: 28&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;参考url&#34;&gt;参考URL&lt;/h3&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://techbookfest.org/product/nxus2XBiNNmYkMghwgv0QU?productVariantID=wPcGFNz3fRXULRabUh3L4a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;https://techbookfest.org/product/nxus2XBiNNmYkMghwgv0QU?productVariantID=wPcGFNz3fRXULRabUh3L4a&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>在庫管理お知らせアプリ</title>
-      <link>http://localhost:8080/portfolio/potimane/</link>
-      <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/portfolio/potimane/</guid>
-      <description>&lt;h1 id=&#34;概要&#34;&gt;概要&lt;/h1&gt;&#xA;&lt;p&gt;部材の管理を簡略化し、在庫数のカウントをしなくても部材の発注日にアプリの操作をするだけで、自動で過去の全体平均リードタイム計算し、次のリードタイムに達した当日に「お知らせ」してくれます。&lt;/p&gt;&#xA;&lt;p&gt;過去に部材を切らしてしまい、上司や同僚に迷惑をかけてしまった事がありませんか？&#xA;部材が十分在庫があるにもかかわらず、大量の部材を抱えてしまい自職場だけでなく他職場にも迷惑をかけてしまった事がありませんか？&#xA;これはそんな人に、部材の管理をお助けするアプリです。&#xA;軌道に乗れば、すべての部材の在庫を毎日確認する必要が無くなり、リードタイムに達した部材のみピンポイントで確認するだけでよくなると思います。&lt;/p&gt;&#xA;&lt;p&gt;このアプリを使用して部材の管理をしていても、本当の意味で部材を管理するのはあなた自身です。&#xA;例えば、突発的にその部材が必要な仕様が連続して生産する事になった場合には対応出来ません。また、自職場に十分材料が在るにも拘らず、必要以上に材料を確保していなければ気が済まない人には、効果がありません。&lt;/p&gt;&#xA;&lt;h1 id=&#34;告知用の資料&#34;&gt;告知用の資料&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/portfolio/potimane/%E8%A1%A8.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/portfolio/potimane/%E8%A3%8F.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;アプリカード&#34;&gt;アプリカード&lt;/h1&gt;&#xA;&lt;p&gt;&lt;img src=&#34;./images/portfolio/potimane/1.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/portfolio/potimane/2.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/portfolio/potimane/3.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/portfolio/potimane/4.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/portfolio/potimane/5.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/portfolio/potimane/6.png&#34; alt=&#34;&#34;&gt;&#xA;&lt;img src=&#34;./images/portfolio/potimane/7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:8080/graph1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/graph1/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;    &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;    &lt;title&gt;TEST&lt;/title&gt;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width,initial-scale=1.0&#34;&gt;&#xA;    &lt;script&#xA;        src=&#34;https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@next/dist/chartjs-adapter-date-fns.bundle.min.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js&#34;&gt;&lt;/script&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;    &lt;div style=&#34;width:250px&#34;&gt;&#xA;        &lt;canvas id=&#34;myRadarChart&#34;&gt;&lt;/canvas&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;script&gt;&#xA;        var ctx = document.getElementById(&#34;myRadarChart&#34;);&#xA;        var myChart = new Chart(ctx, {&#xA;            type: &#39;radar&#39;,&#xA;            data: {&#xA;                //データの各項目のラベル(上から時計回り)&#xA;                labels: [&#34;Docker&#34;, &#34;GitHub&#34;, &#34;AWS&#34;, &#34;Firebase&#34;, &#34;GCP&#34;],&#xA;                //データ設定&#xA;                datasets: [&#xA;                    {&#xA;                        //グラフのデータ(上から時計回り)&#xA;                        data: [50, 70, 20, 60, 20],&#xA;                        //グラフ全体のラベル&#xA;                        label: &#34;プラットフォーム&#34;,&#xA;                        //背景色&#xA;                        backgroundColor: &#34;rgba(255,160,0,0.1)&#34;,&#xA;                        //線の終端を四角にするか丸めるかの設定。デフォルトは四角(butt)。&#xA;                        borderCapStyle: &#34;butt&#34;,&#xA;                        //線の色&#xA;                        borderColor: &#34;rgba(255,160,0)&#34;,&#xA;                        //線を破線にする&#xA;                        borderDash: [],&#xA;                        //破線のオフセット(基準点からの距離)&#xA;                        borderDashOffset: 0.0,&#xA;                        //線と線が交わる箇所のスタイル。初期値は&#39;miter&#39;&#xA;                        borderJoinStyle: &#39;miter&#39;,&#xA;                        //線の幅。ピクセル単位で指定。初期値は3。&#xA;                        borderWidth: 3,&#xA;                        //グラフを塗りつぶすかどうか。初期値はtrue。falseにすると枠線だけのグラフになります。&#xA;                        fill: true,&#xA;                        //複数のグラフを重ねて描画する際の重なりを設定する。z-indexみたいなもの。初期値は0。&#xA;                        order: 0,&#xA;                        //0より大きい値にすると「ベジェ曲線」という数式で曲線のグラフになります。初期値は0。&#xA;                        lineTension: 0&#xA;                    }&#xA;                ]&#xA;            },&#xA;            options: {&#xA;                scales: {&#xA;                    r: {&#xA;                        //グラフの最小値・最大値&#xA;                        min: 0,&#xA;                        max: 100,&#xA;                        //背景色&#xA;                        backgroundColor: &#39;white&#39;,&#xA;                        //グリッドライン&#xA;                        grid: {&#xA;                            color: &#39;silver&#39;,&#xA;                        },&#xA;                        //アングルライン&#xA;                        angleLines: {&#xA;                            color: &#39;silver&#39;,&#xA;                        },&#xA;                        //各項目のラベル&#xA;                        pointLabels: {&#xA;                            color: &#39;black&#39;,&#xA;                        },&#xA;                    },&#xA;                },&#xA;            }&#xA;        });&#xA;&#xA;    &lt;/script&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/body&gt;&#xA;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:8080/graph2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/graph2/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;    &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;    &lt;title&gt;TEST&lt;/title&gt;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width,initial-scale=1.0&#34;&gt;&#xA;    &lt;script&#xA;        src=&#34;https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@next/dist/chartjs-adapter-date-fns.bundle.min.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js&#34;&gt;&lt;/script&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;    &lt;div style=&#34;width:250px&#34;&gt;&#xA;        &lt;canvas id=&#34;myRadarChart&#34;&gt;&lt;/canvas&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;script&gt;&#xA;        var ctx = document.getElementById(&#34;myRadarChart&#34;);&#xA;        var myChart = new Chart(ctx, {&#xA;            type: &#39;radar&#39;,&#xA;            data: {&#xA;                //データの各項目のラベル(上から時計回り)&#xA;                labels: [&#34;Next&#34;, &#34;React&#34;, &#34;PHP&#34;, &#34;Ruby&#34;, &#34;java&#34;],&#xA;                //データ設定&#xA;                datasets: [&#xA;                    {&#xA;                        //グラフのデータ(上から時計回り)&#xA;                        data: [50, 40, 5, 30, 40],&#xA;                        //グラフ全体のラベル&#xA;                        label: &#34;フロント&#34;,&#xA;                        //背景色&#xA;                        backgroundColor: &#34;rgba(255,0,0,0.1)&#34;,&#xA;                        //線の終端を四角にするか丸めるかの設定。デフォルトは四角(butt)。&#xA;                        borderCapStyle: &#34;butt&#34;,&#xA;                        //線の色&#xA;                        borderColor: &#34;rgba(255,0,0)&#34;,&#xA;                        //線を破線にする&#xA;                        borderDash: [],&#xA;                        //破線のオフセット(基準点からの距離)&#xA;                        borderDashOffset: 0.0,&#xA;                        //線と線が交わる箇所のスタイル。初期値は&#39;miter&#39;&#xA;                        borderJoinStyle: &#39;miter&#39;,&#xA;                        //線の幅。ピクセル単位で指定。初期値は3。&#xA;                        borderWidth: 3,&#xA;                        //グラフを塗りつぶすかどうか。初期値はtrue。falseにすると枠線だけのグラフになります。&#xA;                        fill: true,&#xA;                        //複数のグラフを重ねて描画する際の重なりを設定する。z-indexみたいなもの。初期値は0。&#xA;                        order: 0,&#xA;                        //0より大きい値にすると「ベジェ曲線」という数式で曲線のグラフになります。初期値は0。&#xA;                        lineTension: 0&#xA;                    }&#xA;                ]&#xA;            },&#xA;            options: {&#xA;                scales: {&#xA;                    r: {&#xA;                        //グラフの最小値・最大値&#xA;                        min: 0,&#xA;                        max: 100,&#xA;                        //背景色&#xA;                        backgroundColor: &#39;white&#39;,&#xA;                        //グリッドライン&#xA;                        grid: {&#xA;                            color: &#39;silver&#39;,&#xA;                        },&#xA;                        //アングルライン&#xA;                        angleLines: {&#xA;                            color: &#39;silver&#39;,&#xA;                        },&#xA;                        //各項目のラベル&#xA;                        pointLabels: {&#xA;                            color: &#39;black&#39;,&#xA;                        },&#xA;                    },&#xA;                },&#xA;            }&#xA;        });&#xA;&#xA;    &lt;/script&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/body&gt;&#xA;&#xA;&lt;/html&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:8080/graph3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:8080/graph3/</guid>
-      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html&gt;&#xA;&#xA;&lt;head&gt;&#xA;    &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;    &lt;title&gt;TEST&lt;/title&gt;&#xA;    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width,initial-scale=1.0&#34;&gt;&#xA;    &lt;script&#xA;        src=&#34;https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@next/dist/chartjs-adapter-date-fns.bundle.min.js&#34;&gt;&lt;/script&gt;&#xA;    &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js&#34;&gt;&lt;/script&gt;&#xA;&lt;/head&gt;&#xA;&#xA;&lt;body&gt;&#xA;    &lt;div style=&#34;width:250px&#34;&gt;&#xA;        &lt;canvas id=&#34;myRadarChart&#34;&gt;&lt;/canvas&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;script&gt;&#xA;        var ctx = document.getElementById(&#34;myRadarChart&#34;);&#xA;        var myChart = new Chart(ctx, {&#xA;            type: &#39;radar&#39;,&#xA;            data: {&#xA;                //データの各項目のラベル(上から時計回り)&#xA;                labels: [&#34;Kotlin&#34;, &#34;Swift&#34;, &#34;Dart&#34;, &#34;JetpackCompose&#34;, &#34;SwiftUI&#34;],&#xA;                //データ設定&#xA;                datasets: [&#xA;                    {&#xA;                        //グラフのデータ(上から時計回り)&#xA;                        data: [90, 50, 50, 70, 30],&#xA;                        //グラフ全体のラベル&#xA;                        label: &#34;モバイル技術&#34;,&#xA;                        //背景色&#xA;                        backgroundColor: &#34;rgba(0,0,255,0.1)&#34;,&#xA;                        //線の終端を四角にするか丸めるかの設定。デフォルトは四角(butt)。&#xA;                        borderCapStyle: &#34;butt&#34;,&#xA;                        //線の色&#xA;                        borderColor: &#34;rgba(0,0,255)&#34;,&#xA;                        //線を破線にする&#xA;                        borderDash: [],&#xA;                        //破線のオフセット(基準点からの距離)&#xA;                        borderDashOffset: 0.0,&#xA;                        //線と線が交わる箇所のスタイル。初期値は&#39;miter&#39;&#xA;                        borderJoinStyle: &#39;miter&#39;,&#xA;                        //線の幅。ピクセル単位で指定。初期値は3。&#xA;                        borderWidth: 3,&#xA;                        //グラフを塗りつぶすかどうか。初期値はtrue。falseにすると枠線だけのグラフになります。&#xA;                        fill: true,&#xA;                        //複数のグラフを重ねて描画する際の重なりを設定する。z-indexみたいなもの。初期値は0。&#xA;                        order: 0,&#xA;                        //0より大きい値にすると「ベジェ曲線」という数式で曲線のグラフになります。初期値は0。&#xA;                        lineTension: 0&#xA;                    }&#xA;                ]&#xA;            },&#xA;            options: {&#xA;                scales: {&#xA;                    r: {&#xA;                        //グラフの最小値・最大値&#xA;                        min: 0,&#xA;                        max: 100,&#xA;                        //背景色&#xA;                        backgroundColor: &#39;white&#39;,&#xA;                        //グリッドライン&#xA;                        grid: {&#xA;                            color: &#39;silver&#39;,&#xA;                        },&#xA;                        //アングルライン&#xA;                        angleLines: {&#xA;                            color: &#39;silver&#39;,&#xA;                        },&#xA;                        //各項目のラベル&#xA;                        pointLabels: {&#xA;                            color: &#39;black&#39;,&#xA;                        },&#xA;                    },&#xA;                },&#xA;            }&#xA;        });&#xA;&#xA;    &lt;/script&gt;&#xA;    &lt;/div&gt;&#xA;&lt;/body&gt;&#xA;&#xA;&lt;/html&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>HomePage on harutiro's site</title><link>https://harutiro.net/</link><description>Recent content in HomePage on harutiro's site</description><generator>Hugo</generator><language>ja</language><lastBuildDate>Fri, 19 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://harutiro.net/index.xml" rel="self" type="application/rss+xml"/><item><title>DroidKaigi2025に遊びにいきました</title><link>https://harutiro.net/articles/droidkaigi2025/</link><pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate><guid>https://harutiro.net/articles/droidkaigi2025/</guid><description>&lt;p>画像などが全くないのですが、いつか貼ります。&lt;/p>
+&lt;h1 id="droidkaigi-2025-参加レポート">DroidKaigi 2025 参加レポート&lt;/h1>
+&lt;p>DroidKaigi 2025は、2025年9月10日（水）から12日（金）までの3日間、ベルサール渋谷ガーデンにて開催されました。今回も最先端のAndroid技術と、日々の開発に役立つ実践的な知見を深く学ぶことができました。&lt;/p>
+&lt;h2 id="登壇内容の感想と要点">登壇内容の感想と要点&lt;/h2>
+&lt;p>いくつかのセッションに参加し、技術的な深掘りや新たな視点を得ることができました。
+その中でも、特に印象に残ったセッションをいくつか紹介させてもらいます。&lt;/p>
+&lt;h3 id="1-androidとkotlin-multiplatformで産業グレードのrfidシステムを構築する-911">1. AndroidとKotlin Multiplatformで産業グレードのRFIDシステムを構築する (9/11)&lt;/h3>
+&lt;p>このセッションは9月11日の11:20から12:00にJellyfishトラックで、Jasveen Sandral氏によって行われました 。このセッションでは、AndroidとKMPを用いて産業グレードのRFIDシステムを構築する技術が紹介されました 。&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>通信技術の選択:&lt;/strong> 通常のUSBやワイヤレス通信に加え、Webシステムを利用した通信方法が取り上げられていました 。特に興味深かったのは、シリアル通信をAndroidからではなく、&lt;strong>Web技術（Web Serial）&lt;/strong> から利用している点です 。&lt;/li>
+&lt;li>&lt;strong>Web技術活用の狙い:&lt;/strong> Webからシリアル通信を行うことで、クロスプラットフォームでの対応が可能になったり、アプリのインストールが不要になったりといったメリットが考えられます 。これはKMPから呼び出すための技術として利用されているとの理解が得られました 。&lt;/li>
+&lt;li>&lt;strong>技術ブリッジ:&lt;/strong> 具体的な流れは「RFID → Webシリアル → JS → Android App → KMP」というものであり 、WebViewからJSの内容を繋げるブリッジが作られたそうです 。&lt;/li>
+&lt;li>&lt;strong>KMPの可能性:&lt;/strong> RFIDパーサーなどのロジックは、シリアル通信さえできてしまえば、あとは共有ロジック（KMP）でできてしまうのは嬉しい話だと感じました 。KMPを雰囲気でしか触ってこなかったため、改めてしっかり触ってみたいという意欲が湧きました 。&lt;/li>
+&lt;li>&lt;strong>Web技術の逆輸入:&lt;/strong> このWeb技術をブリッジするアプローチは、5G、AI/ML、AR/VRなど、色々なもののWeb技術をモバイルアプリに「逆輸入」できる可能性を感じさせます 。ただし、WebSerialはiOSには対応していないという制約も確認できました 。&lt;/li>
+&lt;/ul>
+&lt;iframe width="768" height="392" src="https://www.youtube.com/embed/15t2mRY1lQY" title="DroidKaigi 2025 - [EN] Building Industrial-Grade RFID Systems with Android and Ko… | Jasveen Sandral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;h3 id="2-uiだけじゃないcomposeの可能性--宣言的に奏でるメロディ-911">2. UIだけじゃないComposeの可能性 ━ 宣言的に奏でるメロディ (9/11)&lt;/h3>
+&lt;p>このセッションは9月11日の12:20から13:00にLadybugトラックで、usuiat氏によって行われました 。Jetpack ComposeのRuntimeに焦点を当てた、非常に興味深いセッションでした 。&lt;/p></description></item><item><title>牧野遥斗への質問をまとめてみました。</title><link>https://harutiro.net/articles/makinoqa/</link><pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate><guid>https://harutiro.net/articles/makinoqa/</guid><description>&lt;h2 id="条件が厳しいor難しい課題が出た場合どうやって解決していくか">条件が厳しいor難しい課題が出た場合、どうやって解決していくか？&lt;/h2>
+&lt;p>GoogleAIチームの15分のルールというものがあり、それに準拠した考えをしていきたいと考えています。
+具体的には、まずは自分で解決をできるように色々調べていきます。
+QiitaやZenn、本やStackOverflow、公式リファレンスなどを用いて自分で考えていきたいです。
+ですが、やはりプログラミングをやっていると調べてもどうしても解決ができないことがあると思います。
+そういう時は、15分を目処に周りの上司や同僚に質問を行なって話し合いを行っていきたいと思っています。&lt;/p>
+&lt;h2 id="最近の経験やプログラミングに興味を持ったきっかけは">最近の経験やプログラミングに興味を持ったきっかけは？&lt;/h2>
+&lt;p>プログラミングに出会ったきっかけは、私はマインクラフトだと思っています。
+マインクラフトでMODと言われる、通常のゲームに対して有識者が新しい機能を追加するコンテンツがあるのですが、中学生の自分は、その様々な機能を追加していき、自分の思い描いた理想の世界を作れるということをしり感動をし、ぜひやってみたいと思いました。
+しかし、プログラミング自体が初めてで、また、英語さえも読めなかった私は環境構築で躓き、最初は挫折をしてしまいました。
+ですが、高校に入り、プログラミング体験ができる4日間のキャンプに参加し、Androidのプログラミングを行いました。そこで、ようやく環境構築もでき、最初やりたかったものとはかなり変わってしまいましたが、自分の思い描いた理想をパソコンを通して作り上げることができ感動をして、今もプログラミングを続けています。
+今は、周りの様々な人を助けることができるアプリやサービスを作り上げていきたいと思っています。&lt;/p>
+&lt;h2 id="普段コードを書くときに気を付けていることは">普段コードを書くときに気を付けていることは？&lt;/h2>
+&lt;p>最近プログラミングをする上で気をつけていることは、周りの人が書いているプログラムの考え方や、方針を汲み取って開発することだと思っています。
+複数人で開発するのに、クラスの分け方、ディレクトリの分け方、変数の名前の付け方など、色々なところで違いが出てくると思います。
+そこを自分一人の考えで自分が好きだからという理由だけで、推し進めてしまうと、周りの人との考えがぶつかってしまい、方針が定まらないコードを作成してしまうと思います。
+ですので、しっかりと開発者がどのようにコードを書いていきたいのかを考え実装をしていきたいと思っています。&lt;/p>
+&lt;h2 id="今後広げていきたい知識や能力の方向性は">今後広げていきたい知識や能力の方向性は？&lt;/h2>
+&lt;p>今後は、技術面で言えば、バックエンドの知識を、技術者で言えば、発信力を鍛えてきたいと思っています。
+私は今までモバイルに関するプログラミングを行ってきました。Androidから始まり、iOS,Fltterなど様々なものに触れてきました、大学では、Webなどを開発してきました。大学などでチーム開発を行うたびに自分はバックのサーバーとの通信の仕方をあまり理解していないことに気づき、ぜひバックエンドの知識もつけ、より強いエンジニアになりたいと考えています。&lt;/p>
+&lt;p>発信力でいうと、QiitaやZennに技術記事を書いたり、何か作品を作ったら、どの部分に苦労したかなどのブログを書いていきたいと思っています。
+技術記事に関しては、自分の学びをアウトプットする機会になり、また文字に書き起こすため自分自身も整理され本当に素晴らしいタイミングだと思っています。ですが、今年は何か学んだとしても、QiitaやZennに記事に書くことがめんどくさいと思ってしまい後回しにしてしまいました、ですので、しっかりと書いていき、技術としても周りの人に残しておけるそんなエンジニアになりたいと思っています。&lt;/p></description></item><item><title>私がモバイルを開発する理由</title><link>https://harutiro.net/articles/whymakemobile/</link><pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate><guid>https://harutiro.net/articles/whymakemobile/</guid><description>&lt;p>私はこれまで、モバイルアプリ開発を通じて世界に変化をもたらしてきました。&lt;/p>
+&lt;p>具体的には、スマートフォンのセンサーを活用して、服を共有し、すれ違いざまに気軽に評価できるアプリ「Xclothes」を開発したほか、電車の乗り過ごしを防止するアプリ「TrainAlert」も制作しました。&lt;br>
+「Xclothes」では、&lt;strong>HackU Online 2022&lt;/strong>で最優秀賞を受賞し、「TrainAlert」は累計100ダウンロードを超える成果を達成しました。&lt;/p>
+&lt;p>これらのアプリを開発した背景には、私自身の悩みや不便さを起点に、同じような課題を抱える多くの人のために解決策を提供したいという思いがありました。痛みや不便さをどうすれば取り除けるかを考え、具体的な形に落とし込み、アプリとして解決策を実現してきました。&lt;/p>
+&lt;p>特に、モバイル開発に注力してきた理由として、Web開発よりもユーザーに近い体験を提供できる点が挙げられます。スマートフォンという最も身近なデバイスを活用し、センサーでユーザーの行動を認識し、それに基づいてフィードバックを返すことで、大きな行動変容を促せる可能性があると考えています。&lt;/p>
+&lt;p>今後は、より良いサービスを提供するために、技術力をさらに磨くとともに、多くの人にアプリを使ってもらい、フィードバックを積極的に取り入れながらアップデートを重ねていきたいと考えています。&lt;/p></description></item><item><title>Life is Tech株式会社さんでメンター業務を行っていました</title><link>https://harutiro.net/articles/lifeistech/</link><pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate><guid>https://harutiro.net/articles/lifeistech/</guid><description>&lt;p>私は、中高生にプログラミング技術を教える企業でメンターとして、主にSchool事業とキャンプ事業に携わり、プログラミングの指導や生徒のサポートを行っていました。&lt;/p>
+&lt;h1 id="学んだこと">学んだこと&lt;/h1>
+&lt;p>この経験を通じて、プログラミング技術の指導だけでなく、生徒を効果的にファシリテートするスキルも身につけました。生徒がどのようにすれば効率的に学び、ITを活用したものづくりに対して興味を持ち、楽しさを感じてもらえるかを常に考えていました。&lt;/p>
+&lt;p>プログラミングの指導においては、生徒の理解度を的確に把握し、難しい概念を噛み砕いて伝えることを重視しました。理解が早い生徒には追加の資料を提供し、さらに発展的な学習やスピード感のある開発に繋げました。&lt;/p>
+&lt;p>ファシリテートスキルとしては、生徒との視線を合わせたコミュニケーションや、グループ内での良好な関係を築く場作りを意識しました。メンターと生徒の信頼関係を深め、安心して学べる環境づくりを大切にしてきました。&lt;/p>
+&lt;h1 id="大切にしていたこと">大切にしていたこと&lt;/h1>
+&lt;p>「Why don&amp;rsquo;t you change the world?」という言葉がLife is Techの理念として掲げられており、私自身もその考えに深く共感しています。プログラミングを教える際には、生徒たちに、まずは家族や友人など身近な人々からでも、世界に影響を与えることができるんだという意識を持たせるよう心がけました。&lt;/p></description></item><item><title>DroidKaigi2024にて位置情報サービス(Geofence)の使い方について登壇をしました。</title><link>https://harutiro.net/articles/droidkaigi2024/</link><pubDate>Tue, 10 Sep 2024 00:00:00 +0000</pubDate><guid>https://harutiro.net/articles/droidkaigi2024/</guid><description>&lt;p>位置情報技術に関する内容で発表を行いました。
+内容としては、自作のGeofenceの使い方とGoogleMobileServiceのGeofenceの違いを述べたり、電池寿命を伸ばすための工夫などをスライド150ページほどでまとめました。
+予想以上に多くの方にご関心をいただき、立ち見が出るほどの盛況となり、大変驚きました。一方で、発表時間の配分に課題があり、後半は内容を急いで説明せざるを得なくなる場面がありました。この経験から、次回以降は&lt;strong>資料を早期に完成させ、十分な発表練習を行う&lt;/strong>ことの重要性を改めて認識しました。&lt;br>
+それでも、多くの方から肯定的なフィードバックをいただき、また実験結果としてバッテリー寿命の改善を明確に示すことができた点は、大きな成果だと感じます。&lt;/p>
+&lt;p>公式ホームページ
+&lt;a href="https://2024.droidkaigi.jp/timetable/689944/" target="_blank" rel="noopener" >電池寿命を考えた位置情報の監視方法を考える（Geofence） | DroidKaigi 2024&lt;/a>&lt;/p>
+&lt;h1 id="登壇した時の経験談">登壇した時の経験談&lt;/h1>
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSp96aKTl3zYBc9CQoc4dywk3ZO-Sh0QOPVeLU90DM4bJZUS6mTATizqsfnkxqF-TnjQCYI6GWZQuXO/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe></description></item><item><title>株式会社CARTA HOLDINGSの2024年度インターン「treasure」に3週間参加しました。</title><link>https://harutiro.net/articles/cartatreasure/</link><pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate><guid>https://harutiro.net/articles/cartatreasure/</guid><description>&lt;p>このインターンでは、CARTA HOLDINGSが大切にしている超効率的なアジャイル開発の基本や、チーム開発におけるコミュニケーションの取り方などを学びました。プログラムの流れとしては、1週目にTypeScriptの基礎や、バックエンドフレームワークのHono、フロントエンドフレームワークのViteを学習。2週目には、チームに分かれてアイデア出しと企画書作成を行い、3週目には、その企画書をもとに開発を進め、最終日に発表を行いました。&lt;/p>
+&lt;p>このインターンで最も驚かされたのは、常に本番環境を意識した話し合いや、無駄を一切許さない開発効率でした。本番環境を確認しながら進めるという点では、自分のローカル環境で問題なく動作していた機能も、複数人のコードがマージされると予期せぬ不具合が発生しがちな経験が多くありました。しかし、今回のインターンでは、細かい粒度でPRを行い、常に本番環境を意識して確認を行うことで、UI/UXの微細なズレや機能面での不統一を早期に発見し、これが現場レベルの開発であることを実感しながら進めることができました。&lt;/p>
+&lt;p>次に、1分1秒も無駄にしない開発効率についてです。開発の手が少し空いた際にメンターから「周りの人からタスクをもらえることを考えたか？」と問われたことで、周囲の状況を常に意識し、次に自分ができることを探す姿勢が今後の成長に重要だと感じました。&lt;/p>
+&lt;p>この3週間を通じて全てを吸収できたわけではありませんが、日々のチーム開発において本番環境をしっかり意識する心構えや、チームの状況を把握しながら自ら積極的に貢献できるように努めていきたいと思っています。&lt;/p></description></item><item><title>株式会社Relicさんでインターンを行っていました</title><link>https://harutiro.net/articles/relic/</link><pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate><guid>https://harutiro.net/articles/relic/</guid><description>&lt;p>新規事業の立ち上げを戦略/企画立案から開発、グロースまで一気通貫で行う事業を行う会社で、モバイルエンジニアとして、開発を行ってきた。&lt;/p>
+&lt;p>主に、現在はサービスが終了してしまったLoupeというアプリを開発しており、バグの修正から、新機能の開発などを担当した。&lt;/p>
+&lt;p>公式サイトは無くなってしまったため、口コミサイトでのLoupeの情報
+&lt;a href="https://prtimes.jp/main/html/rd/p/000000130.000016318.html" target="_blank" rel="noopener" >https://prtimes.jp/main/html/rd/p/000000130.000016318.html&lt;/a>&lt;/p>
+&lt;p>学んだこととしては、技術面もたくさん学ばしてもらったが、一番印象に残ったことは開発を行う時のコミュニケーションだと考える。
+私が、新機能の開発をしている時に動作が重くなってしまうコードを書いてしまい、そのままPRが通ってしまい、テスト配信をする時に動作が重くなったことが判明して、一時配信が遅延しかけてしまいましたが、自分が問題の原因を作ってしまったことを気づき、PMに相談して、ことなきを得たことがありました。
+その時に、PRをするときは、しっかりと問題点を書き出したり、相談するときはDraftを用いるなど、ちょっとした気配りが、大事だと感じました。
+また、怒られることを怖がって、相談しないで、闇に葬ろうとすると、原因究明に時間がかかり、工数が無駄にかかってしまうため、しっかりと相談をすることが大事だと感じた。&lt;/p>
+&lt;p>他にも、Androidアプリで、新規事業をするときの技術調査を行ったりした。
+現在は、Flutterを用いたテンプレートアプリを開発し、今後の新規事業に備え、開発を行っている。&lt;/p></description></item><item><title>技術書展16と技書博10に出展していました！！</title><link>https://harutiro.net/articles/gizyutusyoten15_gisyohaku10/</link><pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate><guid>https://harutiro.net/articles/gizyutusyoten15_gisyohaku10/</guid><description>&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>システム工学研究会のプロジェクトの一つである、シス研編集部の活動として同人誌を制作して、同人誌即売会で本の配布の方を行なっていました。&lt;/p>
+&lt;h2 id="技書博にて">技書博にて&lt;/h2>
+&lt;p>技書博では、基本的には本を売り上げるというより著者同士の絡みがとても強いイメージがあります。
+色々なサークルの人とお話をゆっくり行なったり、その後の懇親会などではすごく色々な人と話したりして盛り上がりました。
+また、色々な人がシステム工学研究会のサークルに遊びに来てもらいすごく色々なご意見や感想を聞けました！！！&lt;/p>
+&lt;img width="4032" alt="IMG_1304.JPG (1.8 MB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/89309964-ce0e-415e-89d4-ca629aae6ac6.JPG">
+&lt;img width="3024" alt="IMG_1310.JPG (1.1 MB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/07c4ea24-13a7-4666-8855-c2d0aaeb41fe.JPG">
+&lt;img width="3000" alt="IMG_1327.PNG (519.4 kB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/7e315921-7dff-4e32-a315-e4b111279242.PNG">
+&lt;h2 id="技術書典にて">技術書典にて&lt;/h2>
+&lt;p>技術書典では、本当に色々な人が来てもらい、多種多様なご意見ご感想をいろいろ聞くことができました！！
+鹿さんの本もとうとう印刷もできて実際の本として売ることができてとてもいい思い出となりました。&lt;/p>
+&lt;img width="4032" alt="IMG_1398.JPG (760.9 kB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/5a3a25c2-f6e5-4581-8167-626f028134c7.JPG">
+&lt;img width="4032" alt="IMG_1407.JPG (1.7 MB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/dbce9087-6b26-42fa-b98a-75327bb944fc.JPG">
+&lt;h2 id="最終売上">最終売上&lt;/h2>
+&lt;p>最終的な売上としては、サークル全体で約36万円ほど売上ました！！
+ですが、本の印刷代などを考えるとかなりトントンの利益になってしまうのですが、学生サークルの身で利益がトントンとなるほど皆様の手にとっていただき本当にありがたい限りです。
+ありがとうございました。&lt;/p>
+&lt;h1 id="イベントを終えて">イベントを終えて&lt;/h1>
+&lt;p>システム工学研究会は、本の作成に関しては、最初は会誌として本を作成して、一度はコロナの時代もあり無くなってしまった文化だったのですが、技術書典や技書博などのイベントとメンバーのやる気に支えられてなんとか一年間活動を行うことができました！！
+かなりお金を使う活動なため続けることは今後は難しくなってしまうかもしれませんが、自分がいる間は続くといいなぁと感じています。&lt;/p>
+&lt;h1 id="新刊一覧">新刊一覧&lt;/h1>
+&lt;h2 id="proxmoxで作る超便利な自宅サーバーレシピ">Proxmoxで作る超便利な自宅サーバーレシピ&lt;/h2>
+&lt;img width="306" alt="image.png (72.6 kB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/0c4fc34b-7e67-478e-a649-796b96b8836e.png">
+&lt;p>&lt;a href="https://techbookfest.org/product/8HATSEF31zuZAkeTAFe1m6?productVariantID=xpgxNEK7Tc4kdFdBDwBBCu" target="_blank" rel="noopener" >購入リンク&lt;/a>&lt;/p>
+&lt;p>皆さんはサーバーを作った経験があるでしょうか。普段サーバー系の仕事をされている方でなければ、作ったとしてもNASやマイクラサーバーでしょう。今ではクラウド技術が発展し、サーバーレスと言われるようになりました。そんな中で当サークルでは今年、サーバーの全削除、再構築を行いました。それが楽しくて家でもサーバーを構築したところ、非常に便利なサーバーが完成しました。特に面白いのがProxmoxというOSで、仮想マシンの作成もバックアップも簡単に取れる優れものです。
+このProxmoxを使って物理マシンの遠隔起動、家電コントロール、NAS、VPN、Mac・Ubuntu・Windowsの仮想マシンの構築。さらには、ポート開放なしでWebサイトの公開やVPNを実現しました。一台の物理マシンですべてのOSを動かし、遠隔で操作するという驚異的なものです。
+今回は、Proxmoxをベースにした超便利な自宅仮想サーバーの一部を紹介します。&lt;/p>
+&lt;h2 id="icmpとarpを使って端末数を取得する本-with-golang">ICMPとARPを使って端末数を取得する本 with Golang&lt;/h2>
+&lt;img width="306" alt="image.png (56.6 kB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/a2af964c-20fc-4b06-a5e7-3e7bc0ed6b09.png">
+&lt;p>&lt;a href="https://techbookfest.org/product/grANMCWwaEMshZTvmAjUT2?productVariantID=uZ7ZdHa2Q8ph3eKD9bvWHg" target="_blank" rel="noopener" >購入リンク&lt;/a>&lt;/p>
+&lt;p>ネットワークの通信状態を確認するために使われるICMP、ネットワーク上のMACアドレスを取得するために使われるARP。2つのプロトコルについてと違いを解説しつつ、Linuxコマンドを使わずにGolangからネットワークに接続しているデバイス数を取得する手法を紹介した本です&lt;/p>
+&lt;h2 id="のんてさいなーのフロクラマーによるテサインのにけかた-これは本と言い張る版">のんでざいなーのプログラマーによる、デザインのにげかた。 これは本と言い張る版&lt;/h2>
+&lt;img width="432" alt="image.png (75.2 kB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/cc861551-e73c-4c0a-b1d2-7469da7652ea.png">
+&lt;p>&lt;a href="https://techbookfest.org/product/wDGvtDay1KCX9bUraFuVEW?productVariantID=5AJQx2Sr28Ugwaa7yt8L0B" target="_blank" rel="noopener" >購入リンク&lt;/a>&lt;/p>
+&lt;p>この本？はサークルを運営していて、デザインをどうしたらまともになるのかを話し合うことがあり、その時に作った本？になります。
+デザイン自体を作成するときは、天性の才能のように感じますが、最低限それっぽく見せるだけでしたら、才能ではなく知識でカバーをすることができます。
+例えば、余白を取るだったり、しっかり整列をさせて作ろうなどです。
+そう言った、初めてデザインをする人がミスしやすいところや、一番気をつけて欲しいところ自分なりにまとめた本になります。&lt;/p>
+&lt;h2 id="google検索及ひエラーの解決方法生成aiも活用使用これは本と言い張る版">Google検索及びエラーの解決方法　生成AIも活用使用！　これは本と言い張る版&lt;/h2>
+&lt;img width="432" alt="image.png (60.8 kB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/5cf83012-3414-4f00-bc05-e9a108b69971.png">
+&lt;p>&lt;a href="https://techbookfest.org/product/gD8S4zqs0wms4htGgXTJzi?productVariantID=ibwWUbMU7mFM3DmDzRN52t" target="_blank" rel="noopener" >購入リンク&lt;/a>&lt;/p>
+&lt;p>この本？はサークルを運営していて、初めてプログラミングを勉強し始めた人たちに向けて作成した、Google検索のやり方出会ったり、エラーの検索の仕方をまとめた本！！になります。&lt;/p>
+&lt;p>今までエラーの検索の仕方などをなかなかまとめられている記事が少なく、簡単にまとまっているものが少ないと思ったため、作成をしました。&lt;/p>
+&lt;h1 id="賞について">賞について&lt;/h1>
+&lt;p>第十回技書博にて（技術同人誌博覧会）[優秀賞]をいただきました！！&lt;/p>
+&lt;p>佐藤くんが作成したProxmoxで作る超便利な自宅サーバーレシピにおいて、評価をされて賞を受賞しました！！
+佐藤くんもすごく賞をもらった後すごく喜んでいました。&lt;/p>
+&lt;img width="3520" alt="IMG_1298.JPG (415.7 kB)" src="https://img.esa.io/uploads/production/attachments/19973/2024/07/15/129607/56ff860d-172e-48f3-ab78-3b4a04e50774.JPG">
+&lt;h1 id="投稿者">投稿者&lt;/h1>
+&lt;p>k22120 牧野遥斗&lt;/p></description></item><item><title>Androidを勉強してみようの記事 in 2024</title><link>https://harutiro.net/articles/androidstudyin2024/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><guid>https://harutiro.net/articles/androidstudyin2024/</guid><description>&lt;h1 id="環境について">環境について&lt;/h1>
+&lt;p>今回のAndroidStudioのバージョンは&lt;code>Android Studio Jellyfish | 2023.3.1&lt;/code>でやっていきます。&lt;/p>
+&lt;img width="450" alt="image.png (120.6 kB)" src="https://img.esa.io/uploads/production/attachments/13979/2024/05/02/129607/c852792c-03a0-4245-a48e-408f9f224ea6.png">
+&lt;p>最近のバージョンだとGeminiを用いてAIと対話しながら開発ができるらしいです。
+使ったことはないのでどれくらい精度がいいかはわかりませんが、GitHubCopilotくんを使うお金がない方などは使ってみてもいいかもしれないです。
+&lt;img width="627" alt="スクリーンショット 0006-05-02 0.25.50.png (303.4 kB)" src="https://img.esa.io/uploads/production/attachments/13979/2024/05/02/129607/aa71ee20-7697-43c8-bfd4-78a890a82b22.png">&lt;/p>
+&lt;p>とりあえず、最新を使いましょう。&lt;/p>
+&lt;p>&lt;a href="https://developer.android.com/studio?hl=ja&amp;amp;_gl=1*160el0k*_up*MQ..*_ga*Mzk0Nzg2Nzg0LjE3MTQ1NzY3MzE.*_ga_6HH9YJMN9M*MTcxNDU3NjczMC4xLjAuMTcxNDU3NjczMC4wLjAuMA.." target="_blank" rel="noopener" >インストールリンク&lt;/a>&lt;/p>
+&lt;h1 id="最初の導入-モバイル開発とはどんな感じかをお話しします">最初の導入 モバイル開発とはどんな感じかをお話しします。&lt;/h1>
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSUYHaglKjkocTvVgLCKw5Np0DlzyVuDR6EtEP6XvlCDhbxPmuVkm45SiZ5Z4NitAO4jxTY8XYJyQGj/embed?start=false&amp;loop=true&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;p>&lt;a href="https://docs.google.com/presentation/d/1wgY9WbdLNKvvWbbJlmStjmwVL3vXPX_CoIOe4G8A7Gk/edit?usp=sharing" target="_blank" rel="noopener" >スライドリンク&lt;/a>&lt;/p>
+&lt;h1 id="おすすめの本">おすすめの本&lt;/h1>
+&lt;ul>
+&lt;li>おすすめの本
+&lt;ul>
+&lt;li>初めてのAndroidプログラミング
+&lt;img width="300" alt="71ce43XdxlL.jpg (231.8 kB)" src="https://img.esa.io/uploads/production/attachments/13979/2021/06/10/84962/cfe0ba13-5889-4a67-86f0-d16e41eae674.jpg">&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h1 id="androiddevelopersは便利だよ">AndroidDevelopersは便利だよ&lt;/h1>
+&lt;p>ちょっと前までは英語の記事だったり、少しわかりずらいなどがありましたが、今はすごくわかりやすくいい記事がたくさんあります。
+ぜひ、ここの公式サイトを色々みてみると面白いかもしれないです。
+&lt;a href="https://developer.android.com/?hl=ja" target="_blank" rel="noopener" >https://developer.android.com/?hl=ja&lt;/a>&lt;/p>
+&lt;h1 id="ライフサイクルは大事よくわからなかったら飛ばしてもok">ライフサイクルは大事(よくわからなかったら飛ばしてもOK)&lt;/h1>
+&lt;ul>
+&lt;li>ただのJavaのプログラムとAndroidのアプリの違いは？&lt;/li>
+&lt;li>Androidアプリには、端末サイドでアプリを起動した時、アプリを立ち上げた後にホームに戻った時、アプリをタスキルした時とかタイミングがある。&lt;/li>
+&lt;/ul>
+&lt;img width="513" alt="activity_lifecycle.png (45.7 kB)" src="https://img.esa.io/uploads/production/attachments/13979/2021/07/09/84962/06cd2b16-5e50-4bf5-9102-51d265ba0a53.png">
+&lt;ul>
+&lt;li>↑アクティビティのライフサイクル。&lt;/li>
+&lt;li>アプリは起動すると、作られて、始まって、、、みたいなの。&lt;/li>
+&lt;/ul>
+&lt;h1 id="具体的な内容">具体的な内容&lt;/h1>
+&lt;p>以下の記事をみなさんに進めてもらいます。
+その中でわからないところがあったら、適宜教えにいくスタイルにします。
+残り1時間ぐらいになったら、今できている範囲で何か面白いひと工夫をWebなどで調べながら実装してもらって、少し発表会をして終わる感じにします。&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-app&amp;amp;%3Bhl=ja&amp;amp;hl=ja#0" target="_blank" rel="noopener" >AndroidでHelloWorld&lt;/a>
+&lt;ul>
+&lt;li>とりあえず、アプリを作ってみて、出力される文字を変えてみるだけ。&lt;/li>
+&lt;li>動作確認だけです。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>JetpackComposeで画面の表示の基礎
+&lt;ul>
+&lt;li>わかるところは飛ばして進めます。&lt;/li>
+&lt;li>一部いらないところはスキップしていきます。&lt;/li>
+&lt;li>&lt;a href="https://developer.android.com/courses/android-basics-compose/unit-1?hl=ja" target="_blank" rel="noopener" >ユニット 1: 初めての Android アプリ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.android.com/courses/android-basics-compose/unit-2?hl=ja" target="_blank" rel="noopener" >ユニット 2: アプリ UI を作成する&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.android.com/courses/android-basics-compose/unit-3?hl=ja" target="_blank" rel="noopener" >ユニット 3: リストの表示とマテリアル デザインの使用&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Androidを使いこなす
+&lt;ul>
+&lt;li>&lt;a href="https://developer.android.com/courses/android-basics-compose/unit-5?hl=ja" target="_blank" rel="noopener" >ユニット 5: インターネットに接続する&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.android.com/courses/android-basics-compose/unit-6?hl=ja" target="_blank" rel="noopener" >ユニット 6: データの永続化&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>TrainAlert「トレアラ」～電車乗り過ごし防止アプリ～</title><link>https://harutiro.net/portfolio/trainalert/</link><pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/trainalert/</guid><description>&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>電車に乗っている際には様々な誘惑があると思います。
+スマホを開けば、様々なコンテンツが広がり、椅子に座れば寝ることもできます。
+そんな車内においてやれることが多い電車という交通手段ですが、一方でつい別のことに気をとられてしまい、乗り過ごしてしまうことがあります。&lt;/p>
+&lt;p>この課題を解決するため、「トレアラ」は自動で通知を送信します。
+事前に降車駅や乗換駅、乗る時間帯などの情報を登録しておくことで、駅に到着する前に通知を送信し、あなたのスマホがもうすぐ降りる時間であることをお知らせしてくれます。&lt;/p>
+&lt;p>拘ったポイントとしては、上記の機能に加えてUIが挙げられます。
+誰が見ても直感的に操作ができるようにするためにマテリアルデザインに準拠したデザインを活用し、各項目が何を表しているのか見ただけでわかるようにするためにIconを活用するといったの工夫を行いました。
+またGoogleMapをアプリ内に埋め込むことで、どこの駅で通知をされるのか円や線を用いて表示し、リアルタイムで閲覧することもできます。&lt;/p>
+&lt;p>今後としては現在いただいたフィードバックをもとに、通知メッセージをタップするまでの間はバイブレーションを止めないようにする機能や、イヤホン装着時のみ通知に音を流すなど、通知機能に関する強化を行っていきたいと考えています。
+また細かいUIを改善していき、ユーザー目線の開発を行っていく予定です。&lt;/p></description></item><item><title>TrainAlert2「トレアラ」～電車乗り過ごし防止アプリ～</title><link>https://harutiro.net/portfolio/trainalert2/</link><pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/trainalert2/</guid><description>&lt;h1 id="作品概要">作品概要&lt;/h1>
+&lt;p>作業期間：約3ヶ月
+関係者人数：4人
+担当役割：開発サポート、リリース、プロジェクトマネージャー、アイディア出し
+使用技術：Android、Kotlin、Jetpack Compose、Room
+プロジェクトURL
+&lt;a href="https://github.com/kajiLabTeam/TrainAlert2" target="_blank" rel="noopener" >https://github.com/kajiLabTeam/TrainAlert2&lt;/a>&lt;/p>
+&lt;h1 id="アプリの特徴">アプリの特徴&lt;/h1>
+&lt;p>電車内でうとうとして乗り過ごしを防ぐために、降りる駅が近づくと自動的にアラートを発するアプリです。面倒なタイマー設定が不要で、事前に目的地を設定しておくだけで利用できます。Google Maps APIを活用し、直感的に駅を選択して登録できるようにしました。&lt;/p>
+&lt;h3 id="開発のきっかけ">開発のきっかけ&lt;/h3>
+&lt;p>このアプリは、高校時代に作成した「TrainAlert」のリメイク版です。位置情報やHuman Computer Interaction（HCI）に関心を持つ研究室での勉強として開発を開始し、位置情報の利用方法やフィードバックの設計を学ぶ良い機会となりました。また、過去の作品を自分の知識で再構築したいという思いもあり、Android ViewからJetpack Compose、RealmからRoomに変更し、クリーンアーキテクチャを意識したフォルダ構成に刷新しました。&lt;/p>
+&lt;p>以前のアプリ
+過去に作成したバージョンも以下でご覧いただけます。
+&lt;a href="https://play.google.com/store/apps/details?id=app.makino.harutiro.trainalert" target="_blank" rel="noopener" >https://play.google.com/store/apps/details?id=app.makino.harutiro.trainalert&lt;/a>&lt;/p>
+&lt;h1 id="自分の役割と技術面で最も苦労した点工夫した点">自分の役割と技術面で最も苦労した点・工夫した点&lt;/h1>
+&lt;h3 id="担当分野使用技術">担当分野・使用技術&lt;/h3>
+&lt;p>私の役割は、開発サポート、リリース準備、プロジェクトマネジメント、アイディア出しなど幅広く担当しました。また、AndroidとKotlinを用い、Jetpack ComposeやRoomといった最新技術を活用しながら、アプリの設計と開発に携わりました。&lt;/p>
+&lt;h3 id="技術面での工夫">技術面での工夫&lt;/h3>
+&lt;p>チームで進める中で、各メンバーが学びながら参加できるように配慮しました。技術力の差が生まれがちですが、定期的なミーティングやペアプロを実施し、理解度のギャップを埋めつつプロジェクト全体を進めました。メンバーが置いていかれないよう、チーム全体での成長を目指したことが成果につながったと感じています。&lt;/p>
+&lt;h3 id="最も苦労した点">最も苦労した点&lt;/h3>
+&lt;p>Geofenceを用いた降車駅付近での通知機能の実装です。降車駅の600m手前で通知を発するため、DroidKaigiで私が登壇した内容を使用して、電池消費を抑えつつ精度の高いGeofenceを設定する工夫を凝らしました。また、通知に関しては、通常の通知に加えて音や光、バイブレーションなどを取り入れ、利用者が確実に気づけるような多様なアラート機能を搭載しました。&lt;/p>
+&lt;h3 id="今後の展望">今後の展望&lt;/h3>
+&lt;p>現段階ではバックエンドの不足や使い勝手の改善が必要で、リリースには至っていません。しかし、引き続き更新を行い、リリースを目指しています。また、このアプリを定期的にアップデートし、継続的に改善・発展させていく予定です。&lt;/p>
+&lt;h1 id="発表資料">発表資料&lt;/h1>
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTDZSHJ29sa8ME7Kr0JZJr5MuCd-JVeNR33wDKdAVGy7wiA2L61Svi0CIKvtDaK_IyQ6izVTr0KrSO4/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe></description></item><item><title>XClothes ～すれ違ったタイミングで服を評価するサービス～</title><link>https://harutiro.net/portfolio/xcloses/</link><pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/xcloses/</guid><description>&lt;h1 id="発表資料">発表資料&lt;/h1>
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR05zbBo_ui9corepBfe5QWJPjI9AWXjBxwOIbBKYOukyjFgnLRKDlSbI6gQhAlSA/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe>
+&lt;h1 id="作品概要">作品概要&lt;/h1>
+&lt;p>Yahoo開催のハッカソン「HackU」に研究室のメンバーと参加をして、最優秀賞を取得しました。&lt;/p>
+&lt;p>このハッカソンでは、ユーザーが悩んでいる事柄について解決するアプリケーションを開発したいと思いました。&lt;/p>
+&lt;p>今回私たちが作ったサービスのターゲットは、着ている服のセンスについて悩んでいるユーザーです。自分の服について周りの友達に聞いてみると、気を遣って偏った評価をされてしまいます。そこで、自分の周りですれ違った人から評価をしてもらうことにより、より客観的な評価をもらうことができます。&lt;/p>
+&lt;p>このイベントに参加をして、様々なAndroidの技術とチーム開発の行いかたを学ぶことができました。 チーム開発ですので、周りの状況が今どうなっているのかを判断して、周りの開発物と、自分の開発したものを連携する時に、仕様が違っていてうまく接続できなかったりした時が多々ありました。&lt;/p>
+&lt;p>しっかりと仕様など、コアに関わる部分はミーティングや、仕様書を作るなどみんなで確認をしていく必要があるととても感じました。&lt;/p>
+&lt;p>結果として審査員の人たちに自分達が作成したものをしっかりと伝えることができ、最優秀賞という結果を得ることができました。&lt;/p>
+&lt;p>この開発を最後までやり遂げることができたのは、先輩たちの圧倒的なサポートをしてくれて、それに応えたかったからです。 そして、チームで開発すると、どんどん進捗が上がって、自分一人では何週間もかかるものが3日ぐらいで完成してしまう、そういったところにワクワクして開発を最後まで進めることができました。&lt;/p>
+&lt;p>大学のNews
+&lt;a href="https://www.ait.ac.jp/news/detail/0006725.html" target="_blank" rel="noopener" >https://www.ait.ac.jp/news/detail/0006725.html&lt;/a>&lt;/p>
+&lt;p>研究室ウェブページ
+&lt;a href="https://kajilab.net/hpg/blog/2022-09-22/" target="_blank" rel="noopener" >https://kajilab.net/hpg/blog/2022-09-22/&lt;/a>&lt;/p>
+&lt;p>最優秀賞
+&lt;a href="https://hacku.yahoo.co.jp/hacku2022online/" target="_blank" rel="noopener" >https://hacku.yahoo.co.jp/hacku2022online/&lt;/a>&lt;/p>
+&lt;p>発表URL
+&lt;a href="https://youtu.be/7FXVGig5vFY?t=4303" target="_blank" rel="noopener" >https://youtu.be/7FXVGig5vFY?t=4303&lt;/a>&lt;/p></description></item><item><title>「Clips」～新しいカタチのお気に入り保存アプリ～</title><link>https://harutiro.net/portfolio/clips/</link><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/clips/</guid><description>&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>コンセプトとしては、簡単になおかつわかりやすく保存をするアプリとしています。&lt;/p>
+&lt;p>ターゲットとしては、つい保存したデータを無くしてしまい、どこにやったのかわからなくなっている人としています。また、Lineなどのメッセージ系SNSを使いデータを保存していて、保存期間がついつい過ぎてしまいデータが消えてしまった経験をよくする人もしています。&lt;/p>
+&lt;p>データの入力の面でポイントとなる機能は、共有を使い、ブラウザや文字などをアプリに飛ばし簡単にデータの保存をできること、そのときにファビコンやウェブページのタイトルの取得をしてくれることです。
+また、タグを用いデータの探索の時間を大幅に削れるように工夫をしました。&lt;/p>
+&lt;p>データの検索の面でのポイントとなる機能は、アーカイブ機能を用い、用済みになったデータと今必要なデータで仕分けができるようになった点です。他にはタイトルと内容に文字列検索をかけることができ、タグを付け忘れてしまったデータでも探せるようになりました。&lt;/p>
+&lt;p>今回UI面でも気をつけて作成しました。誰が見ても直感的に操作ができるようにマテリアルデザインに準拠して作成をしました。
+また、この項目が何を表しているのか見ただけでわかるようにIconを用いました。&lt;/p>
+&lt;p>今後としては、FireBaseを用いデータをAndroidやios、PCでも確認できるようにすることや、タグを自動的に振り分けれるよにする機能などを追加していきたいと考えています。&lt;/p>
+&lt;h1 id="技術構成">技術構成&lt;/h1>
+&lt;p>作成の動機としては、前期、教科書の「Realm」と「リサイクラービュー」を用い、レシートをカメラを使い保存をするというアプリ「ＲｅｃｅＣａｍｅ」を作りました。しかし、たくさんデータを保存していくとデータがごちゃついて、探しにくくなってしまうと考えたため、そこに「分類」というアイディアを掛け合わせてみました。そして出来上がったアプリは、「Clips」です。&lt;/p></description></item><item><title>「Clips」～新しいカタチのお気に入り保存アプリ～</title><link>https://harutiro.net/portfolio/hiddingtwitter/</link><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/hiddingtwitter/</guid><description>&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>2022年技育展「世の中を楽しくする」部門にて登壇しました。
+技育キャンプvol.5にて開発した、「隠れてTwitter見れる蔵」をパワーアップして登壇しました。&lt;/p>
+&lt;p>この開発では、もしバレそうになったときに、バレないように隠す部分を作成しました。
+具体的には、Twitterを見ているときにキーボードを叩くことで、それっぽくプログラミングを叩ける機能でしたり、ショートカットキーを押すことにより、それっぽいロード画面を表示する機能を開発しました。&lt;/p>
+&lt;p>チームが多忙でなかなか一つにまとまらず、大変な時もありましたが、声掛けや、みんなで励ましあうことにより、最後まで走り切ることができました。&lt;/p>
+&lt;h1 id="発表資料">発表資料&lt;/h1>
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSBTAtr4QqVrw0j15aRLbPwpwTw22HQNohOXhLlvA0N9WgORFPd3ZB0V2tykjejSKmJNWNTcD5z3k-f/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe></description></item><item><title>esaをCMSにしてGitHubActionsとhugoを用いて自動でホームページを更新する方法の考案</title><link>https://harutiro.net/portfolio/esa_cms_githubaction/</link><pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/esa_cms_githubaction/</guid><description>&lt;p>概要：esaをCMSにしてGitHubActionsとhugoを用いて自動でホームページを更新する方法の考案という技術系同人誌を作成し、技書博8・技術書店15・技書博9で配布した&lt;/p>
+&lt;p>取り組んだ場所:自主制作&lt;/p>
+&lt;p>技術スタック:esaで記事を書き込んだら、自動的にGitHubのレポジトリにmdが更新され、その後GitHubActionsを走らせることで、Hugoで作成したテンプレートに合わせ静的ファイルを生成し公開した。&lt;/p>
+&lt;p>工夫した点:今までQiitaやZennなどで技術系の記事を書いてきたが、本という形で技術をまとめて実際に手渡しで本を配布することで、色々な人と意見を交換しながら様々な知見を学ぶことができた。30部配布できた。&lt;/p>
+&lt;p>その他URL:https://techbookfest.org/product/u9VjvGAurk4cZDbe0PB8L1?productVariantID=nAfKg0eQQCk7uf3X2UNg3J&lt;/p></description></item><item><title>SIW 〜System Infomation Web〜</title><link>https://harutiro.net/portfolio/siw/</link><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/siw/</guid><description>&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>便利なサービス、アプリ、ソフトウェアを紹介しあえるサイト「system infomation web」以下SIWを開発しました。&lt;/p>
+&lt;p>今回解決する問題は、サービスやアプリを紹介しにくく、それをさがしにくい環境を打破することです。&lt;/p>
+&lt;p>私は、便利なツールを見つけるとき、友達やITの強い先輩などからおすすめをしてくれることが一番多かったと感じています。しかし、こういった環境にいられることは珍しいと感じ、「他の人にも共有をし、見てもらう」そういった情報を共有しあえる環境を作るべきではないかと考えました。&lt;/p>
+&lt;p>現状、情報を共有しあえる環境はツイッターでつぶやいたり、友達同士で口頭で伝え合うぐらいしかできませんでした。
+しっかりとしたフォーマットがあるわけでもないので、情報が乱雑としてしまい、ましては全く関係ない情報と混ざってしまうことさえありました。&lt;/p>
+&lt;p>これらを解決するため、「SIW」にはしっかりとした投稿フォームを設けて、誰でも統一された情報を投稿できるようになりました。
+また、公式URLを乗せるだけで自動的に貼り付けてくれるようになるため、たくさんの資料を集めるという手間を極限まで減らし、できる限り減らせるようにしました。&lt;/p>
+&lt;p>今後としては、フィードバックを元に、現在投稿したものを誰でも編集できてしまう問題を解決するため、ツイッターアカウントと連携をして投稿した主以外からは編集できなくする機能、またそのツイッターのアイコンを表示する機能を作成しようと考えています。
+タグ選択をして、元に戻すための「すべて」タグの実装や、投稿がたくさん増えてきたときに一気に表示されると重くなってしまうことを防ぐため、数を絞り、ページを複数に分ける機能などを作成しようと考えています。&lt;/p>
+&lt;ol>
+&lt;li>何ができるアプリなのか簡単に述べる&lt;/li>
+&lt;li>解決する課題について触れる&lt;/li>
+&lt;li>既存のアプリ・サービスでは不十分な点について述べる&lt;/li>
+&lt;li>提案するアプリがその課題を解決する方法について述べる&lt;/li>
+&lt;li>今後について
+ &lt;/li>
+&lt;/ol>
+&lt;h1 id="アピールポイント">アピールポイント&lt;/h1>
+&lt;p>誰でもわかりやすく投稿をできるように、マテリアルデザインを用いて直感的に操作できるように心がけました。&lt;/p>
+&lt;p>投稿するときに何を書いたらいいのかわからなくならないように、細かくフォームを分けることにより何を書いたらいいのか迷いにくくなるように作成しました。&lt;/p>
+&lt;p>たくさんの資料を探したり作成する手間を削減し、なおかつ見ただけでどのようなソフトなのかをわかりやすくするため、公式のURLを用いることによりアイコンとそのページのイメージ画像を取得できるようにしました。&lt;/p>
+&lt;p>このソフトは自分のOSに対応しているのかわからず、実際に調べてみると対応してなくて悲しい思いをしたということを極限まで減らすため、対応OSを表示するようにフォームに追加をしました。&lt;/p>
+&lt;p>フォームにジャンルを設けることにより、自分のやりたいことに合わせて調べることができるようになりました。&lt;/p>
+&lt;p>このソフトは使ってみてとっても良かったと投稿した人にフィードバックを返せるようにいいねボタンを追加しました。
+ &lt;/p>
+&lt;h1 id="使用方法">使用方法&lt;/h1>
+&lt;p>自分の使っているサービスを紹介したい場合。
+１．各フォームに自分の紹介したいサービスの名称や特徴などを記入をする。
+※ユーザーアイコンは各自のローカルのデータを投稿することにより自由に変更することができます。アイコンを投稿しない場合、ノーマルの画像になります。
+２．最後に追加と押すことにより、皆さんに紹介されるようになります。
+３．再度編集をしたい場合、編集をしたい投稿の鉛筆マークを押すことにより再度編集をすることができます。
+４.　間違えて投稿をしてしまったものはゴミ箱ボタンを押すことにより消去をすることができます。&lt;/p>
+&lt;p>投稿されているサービスを確認したい場合。
+・下にスクロールをしていくとみなさんが投稿をしてくれた情報を確認することができます。
+※すでにherokuに公開をして、３０件以上の投稿が公開されています。
+データベースのseedに投稿されているデータを初期データとして保存しましたので、seedを実行してもらえるとたくさんのデータが有る状態で審査が行えると思われます。
+seedがうまく実行できなかった場合、こちらのサイトでどんなイメージで動くのか触ってもらえると助かります。
+&lt;a href="https://pacific-stream-72094.herokuapp.com/" target="_blank" rel="noopener" >https://pacific-stream-72094.herokuapp.com/&lt;/a>&lt;/p>
+&lt;p>・便利なサービス、面白いソフト、アプリだと感じたらいいねを押すことにより、投稿主にエールや元気、活力が送られます。&lt;/p>
+&lt;p>・公式ページに飛びたい場合、投稿された情報の右下のピンク色のボタンを押してもらえると飛ぶことができます。&lt;/p>
+&lt;h1 id="発表資料">発表資料&lt;/h1>
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0k5ZSRCAPHq-VJP_nfc6UyppwyyjZeieWyBv868i8LI2-HUS6JQo6oQ3Fce5Dg6Duj3Asq2xRoCiY/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe></description></item><item><title>サーマルプリンタで会計アプリの作成</title><link>https://harutiro.net/portfolio/thermal_printer/</link><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/thermal_printer/</guid><description>&lt;p>サークル内で使用するダウンロードカードの印刷兼カウントアプリの作成を行いました。
+このアプリは、配布した本をダウンロードするためのカードをその場で印刷しながら、購入数のカウントを行えるため、売り子さんの手間を減らすことができました。それによって数え間違えを無くし、誤差を0円にすることができました。&lt;/p>
+&lt;p>詳しくは、本を書く予定ですので、そちらを参考にしていただけると助かります。&lt;/p>
+&lt;h1 id="発表資料">発表資料&lt;/h1>
+&lt;iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQYUeOK972CkVwkCuvgOnc79LOENA2pqj7H6gVy4zjw91-By4t6MSJO3yLOgUM2iB6sKoIER5QjGmqt/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">&lt;/iframe></description></item><item><title>サーマルプリンタで会計アプリの作成方法について本を書きました。</title><link>https://harutiro.net/portfolio/thermal_printer_book/</link><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/thermal_printer_book/</guid><description>&lt;p>この本は、自分がサークルに導入したサーマルプリンターを用いたダウンロードカードを制作するにあたって、なぜそのアプリを作成したのか、そしてどのように作成したのかをまとめた本になります。&lt;/p>
+&lt;p>具体的にサーマルプリンターを用いて印刷をする方法は時間の関係でまとめることができなかったので、後日時間が取れましたら、作成をする予定です。&lt;/p>
+&lt;ul>
+&lt;li>初出イベント: 技術書典17&lt;/li>
+&lt;li>ページ数: 28&lt;/li>
+&lt;/ul>
+&lt;h3 id="参考url">参考URL&lt;/h3>
+&lt;p>&lt;a href="https://techbookfest.org/product/nxus2XBiNNmYkMghwgv0QU?productVariantID=wPcGFNz3fRXULRabUh3L4a" target="_blank" rel="noopener" >https://techbookfest.org/product/nxus2XBiNNmYkMghwgv0QU?productVariantID=wPcGFNz3fRXULRabUh3L4a&lt;/a>&lt;/p></description></item><item><title>在庫管理お知らせアプリ</title><link>https://harutiro.net/portfolio/potimane/</link><pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate><guid>https://harutiro.net/portfolio/potimane/</guid><description>&lt;h1 id="概要">概要&lt;/h1>
+&lt;p>部材の管理を簡略化し、在庫数のカウントをしなくても部材の発注日にアプリの操作をするだけで、自動で過去の全体平均リードタイム計算し、次のリードタイムに達した当日に「お知らせ」してくれます。&lt;/p>
+&lt;p>過去に部材を切らしてしまい、上司や同僚に迷惑をかけてしまった事がありませんか？
+部材が十分在庫があるにもかかわらず、大量の部材を抱えてしまい自職場だけでなく他職場にも迷惑をかけてしまった事がありませんか？
+これはそんな人に、部材の管理をお助けするアプリです。
+軌道に乗れば、すべての部材の在庫を毎日確認する必要が無くなり、リードタイムに達した部材のみピンポイントで確認するだけでよくなると思います。&lt;/p>
+&lt;p>このアプリを使用して部材の管理をしていても、本当の意味で部材を管理するのはあなた自身です。
+例えば、突発的にその部材が必要な仕様が連続して生産する事になった場合には対応出来ません。また、自職場に十分材料が在るにも拘らず、必要以上に材料を確保していなければ気が済まない人には、効果がありません。&lt;/p>
+&lt;h1 id="告知用の資料">告知用の資料&lt;/h1>
+&lt;p>&lt;img src="./images/portfolio/potimane/%E8%A1%A8.png" alt="">
+&lt;img src="./images/portfolio/potimane/%E8%A3%8F.png" alt="">&lt;/p>
+&lt;h1 id="アプリカード">アプリカード&lt;/h1>
+&lt;p>&lt;img src="./images/portfolio/potimane/1.png" alt="">
+&lt;img src="./images/portfolio/potimane/2.png" alt="">
+&lt;img src="./images/portfolio/potimane/3.png" alt="">
+&lt;img src="./images/portfolio/potimane/4.png" alt="">
+&lt;img src="./images/portfolio/potimane/5.png" alt="">
+&lt;img src="./images/portfolio/potimane/6.png" alt="">
+&lt;img src="./images/portfolio/potimane/7.png" alt="">&lt;/p></description></item><item><title/><link>https://harutiro.net/graph1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harutiro.net/graph1/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+
+&lt;head>
+ &lt;meta charset="utf-8">
+ &lt;title>TEST&lt;/title>
+ &lt;meta name="viewport" content="width=device-width,initial-scale=1.0">
+ &lt;script
+ src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@next/dist/chartjs-adapter-date-fns.bundle.min.js">&lt;/script>
+ &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js">&lt;/script>
+&lt;/head>
+
+&lt;body>
+ &lt;div style="width:250px">
+ &lt;canvas id="myRadarChart">&lt;/canvas>
+ &lt;/div>
+ &lt;script>
+ var ctx = document.getElementById("myRadarChart");
+ var myChart = new Chart(ctx, {
+ type: 'radar',
+ data: {
+ //データの各項目のラベル(上から時計回り)
+ labels: ["Docker", "GitHub", "AWS", "Firebase", "GCP"],
+ //データ設定
+ datasets: [
+ {
+ //グラフのデータ(上から時計回り)
+ data: [50, 70, 20, 60, 20],
+ //グラフ全体のラベル
+ label: "プラットフォーム",
+ //背景色
+ backgroundColor: "rgba(255,160,0,0.1)",
+ //線の終端を四角にするか丸めるかの設定。デフォルトは四角(butt)。
+ borderCapStyle: "butt",
+ //線の色
+ borderColor: "rgba(255,160,0)",
+ //線を破線にする
+ borderDash: [],
+ //破線のオフセット(基準点からの距離)
+ borderDashOffset: 0.0,
+ //線と線が交わる箇所のスタイル。初期値は'miter'
+ borderJoinStyle: 'miter',
+ //線の幅。ピクセル単位で指定。初期値は3。
+ borderWidth: 3,
+ //グラフを塗りつぶすかどうか。初期値はtrue。falseにすると枠線だけのグラフになります。
+ fill: true,
+ //複数のグラフを重ねて描画する際の重なりを設定する。z-indexみたいなもの。初期値は0。
+ order: 0,
+ //0より大きい値にすると「ベジェ曲線」という数式で曲線のグラフになります。初期値は0。
+ lineTension: 0
+ }
+ ]
+ },
+ options: {
+ scales: {
+ r: {
+ //グラフの最小値・最大値
+ min: 0,
+ max: 100,
+ //背景色
+ backgroundColor: 'white',
+ //グリッドライン
+ grid: {
+ color: 'silver',
+ },
+ //アングルライン
+ angleLines: {
+ color: 'silver',
+ },
+ //各項目のラベル
+ pointLabels: {
+ color: 'black',
+ },
+ },
+ },
+ }
+ });
+
+ &lt;/script>
+ &lt;/div>
+&lt;/body>
+
+&lt;/html></description></item><item><title/><link>https://harutiro.net/graph2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harutiro.net/graph2/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+
+&lt;head>
+ &lt;meta charset="utf-8">
+ &lt;title>TEST&lt;/title>
+ &lt;meta name="viewport" content="width=device-width,initial-scale=1.0">
+ &lt;script
+ src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@next/dist/chartjs-adapter-date-fns.bundle.min.js">&lt;/script>
+ &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js">&lt;/script>
+&lt;/head>
+
+&lt;body>
+ &lt;div style="width:250px">
+ &lt;canvas id="myRadarChart">&lt;/canvas>
+ &lt;/div>
+ &lt;script>
+ var ctx = document.getElementById("myRadarChart");
+ var myChart = new Chart(ctx, {
+ type: 'radar',
+ data: {
+ //データの各項目のラベル(上から時計回り)
+ labels: ["Next", "React", "PHP", "Ruby", "java"],
+ //データ設定
+ datasets: [
+ {
+ //グラフのデータ(上から時計回り)
+ data: [50, 40, 5, 30, 40],
+ //グラフ全体のラベル
+ label: "フロント",
+ //背景色
+ backgroundColor: "rgba(255,0,0,0.1)",
+ //線の終端を四角にするか丸めるかの設定。デフォルトは四角(butt)。
+ borderCapStyle: "butt",
+ //線の色
+ borderColor: "rgba(255,0,0)",
+ //線を破線にする
+ borderDash: [],
+ //破線のオフセット(基準点からの距離)
+ borderDashOffset: 0.0,
+ //線と線が交わる箇所のスタイル。初期値は'miter'
+ borderJoinStyle: 'miter',
+ //線の幅。ピクセル単位で指定。初期値は3。
+ borderWidth: 3,
+ //グラフを塗りつぶすかどうか。初期値はtrue。falseにすると枠線だけのグラフになります。
+ fill: true,
+ //複数のグラフを重ねて描画する際の重なりを設定する。z-indexみたいなもの。初期値は0。
+ order: 0,
+ //0より大きい値にすると「ベジェ曲線」という数式で曲線のグラフになります。初期値は0。
+ lineTension: 0
+ }
+ ]
+ },
+ options: {
+ scales: {
+ r: {
+ //グラフの最小値・最大値
+ min: 0,
+ max: 100,
+ //背景色
+ backgroundColor: 'white',
+ //グリッドライン
+ grid: {
+ color: 'silver',
+ },
+ //アングルライン
+ angleLines: {
+ color: 'silver',
+ },
+ //各項目のラベル
+ pointLabels: {
+ color: 'black',
+ },
+ },
+ },
+ }
+ });
+
+ &lt;/script>
+ &lt;/div>
+&lt;/body>
+
+&lt;/html></description></item><item><title/><link>https://harutiro.net/graph3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://harutiro.net/graph3/</guid><description>&lt;!DOCTYPE html>
+&lt;html>
+
+&lt;head>
+ &lt;meta charset="utf-8">
+ &lt;title>TEST&lt;/title>
+ &lt;meta name="viewport" content="width=device-width,initial-scale=1.0">
+ &lt;script
+ src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns@next/dist/chartjs-adapter-date-fns.bundle.min.js">&lt;/script>
+ &lt;script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js">&lt;/script>
+&lt;/head>
+
+&lt;body>
+ &lt;div style="width:250px">
+ &lt;canvas id="myRadarChart">&lt;/canvas>
+ &lt;/div>
+ &lt;script>
+ var ctx = document.getElementById("myRadarChart");
+ var myChart = new Chart(ctx, {
+ type: 'radar',
+ data: {
+ //データの各項目のラベル(上から時計回り)
+ labels: ["Kotlin", "Swift", "Dart", "JetpackCompose", "SwiftUI"],
+ //データ設定
+ datasets: [
+ {
+ //グラフのデータ(上から時計回り)
+ data: [90, 50, 50, 70, 30],
+ //グラフ全体のラベル
+ label: "モバイル技術",
+ //背景色
+ backgroundColor: "rgba(0,0,255,0.1)",
+ //線の終端を四角にするか丸めるかの設定。デフォルトは四角(butt)。
+ borderCapStyle: "butt",
+ //線の色
+ borderColor: "rgba(0,0,255)",
+ //線を破線にする
+ borderDash: [],
+ //破線のオフセット(基準点からの距離)
+ borderDashOffset: 0.0,
+ //線と線が交わる箇所のスタイル。初期値は'miter'
+ borderJoinStyle: 'miter',
+ //線の幅。ピクセル単位で指定。初期値は3。
+ borderWidth: 3,
+ //グラフを塗りつぶすかどうか。初期値はtrue。falseにすると枠線だけのグラフになります。
+ fill: true,
+ //複数のグラフを重ねて描画する際の重なりを設定する。z-indexみたいなもの。初期値は0。
+ order: 0,
+ //0より大きい値にすると「ベジェ曲線」という数式で曲線のグラフになります。初期値は0。
+ lineTension: 0
+ }
+ ]
+ },
+ options: {
+ scales: {
+ r: {
+ //グラフの最小値・最大値
+ min: 0,
+ max: 100,
+ //背景色
+ backgroundColor: 'white',
+ //グリッドライン
+ grid: {
+ color: 'silver',
+ },
+ //アングルライン
+ angleLines: {
+ color: 'silver',
+ },
+ //各項目のラベル
+ pointLabels: {
+ color: 'black',
+ },
+ },
+ },
+ }
+ });
+
+ &lt;/script>
+ &lt;/div>
+&lt;/body>
+
+&lt;/html></description></item></channel></rss>
