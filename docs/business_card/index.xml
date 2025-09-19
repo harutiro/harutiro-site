@@ -1,1 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Business_Card on harutiro's site</title><link>https://harutiro.net/business_card/</link><description>Recent content in Business_Card on harutiro's site</description><generator>Hugo</generator><language>ja</language><atom:link href="https://harutiro.net/business_card/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business_Card on harutiro&#39;s site</title>
+    <link>http://localhost:8080/business_card/</link>
+    <description>Recent content in Business_Card on harutiro&#39;s site</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="http://localhost:8080/business_card/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

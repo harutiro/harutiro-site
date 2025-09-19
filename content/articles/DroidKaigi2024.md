@@ -1,7 +1,7 @@
 ---
-title: DroidKaigiにて位置情報サービス(Geofence)の使い方について登壇をしました。
+title: DroidKaigi2024にて位置情報サービス(Geofence)の使い方について登壇をしました。
 date: 2024-09-10
-images: [ "/images/stack/droidkaigi.png" ]
+images: [ "/images/stack/droidkaigi2024.png" ]
 ---
 
 位置情報技術に関する内容で発表を行いました。
