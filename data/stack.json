@@ -1,6 +1,22 @@
 [
     {
         "header": true,
+        "name": "大学4年生"
+    },
+    {
+        "name": "CDS45",
+        "description": "UWB アンテナとスマートフォンの融合により配置の柔軟性を向上させた屋内測位システムの開発と発表",
+        "link": "",
+        "icon": "/images/stack/uwb.png",
+        "date": "2026年 1月",
+        "tags": [
+            "UWB",
+            "Android",
+            "位置推定"
+        ]
+    },
+    {
+        "header": true,
         "name": "大学3年生"
     },
     {
@@ -8,7 +24,7 @@
         "description": "Unityなどを用いてXR系のアプリケーションの開発を行う。",
         "link": "",
         "icon": "/images/stack/FORGERS.png",
-        "date": "2024月 12月",
+        "date": "2024年 12月",
         "tags": [
             "Forgers",
             "XR",
@@ -20,7 +36,7 @@
         "description": "株式会社CARTA HOLDINGSの2024年度インターン「treasure」に3週間参加しました。",
         "link": "/articles/cartatreasure/",
         "icon": "/images/stack/Treasure.jpg",
-        "date": "2024月 8月",
+        "date": "2024年 8月",
         "tags": [
             "CARTA HOLDINGS",
             "Treasure",
@@ -34,7 +50,7 @@
         "description": "内容としては、自作のGeofenceの使い方とGoogleMobileServiceのGeofenceの違いを述べたり、電池寿命を伸ばすための工夫などをスライド150ページほどでまとめました。",
         "link": "/articles/droidkaigi/",
         "icon": "/images/stack/droidkaigi.png",
-        "date": "2024月 8月",
+        "date": "2024年 8月",
         "tags": [
             "カンファレンス",
             "位置推定",
@@ -52,7 +68,7 @@
         "description": "雀をする時にウェアラブルデバイスをつけ、心拍数を取得し全員で確認をすることで新たなゲーム性を追加するアプリケーションの開発",
         "link": "https://www.canva.com/design/DAF0xYjmrsM/-Sf1-DPOQC_kCB8QCgOp3A/edit?utm_content=DAF0xYjmrsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
         "icon": "/images/stack/heartBeatsSensing.png",
-        "date": "2023月 11月",
+        "date": "2023年 11月",
         "tags": [
             "Android Wear",
             "心拍数",
@@ -66,7 +82,7 @@
         "description": "愛知工業大学公認サークルであるシステム工学研究会の会長になりました。IT技術を学びながらみんなで楽しめるサークルを目指しました。",
         "link": "https://www.sysken.net/",
         "icon": "/images/stack/sysken.png",
-        "date": "2023月 11月",
+        "date": "2023年 11月",
         "tags": [
             "sysken",
             "会長",
@@ -78,7 +94,7 @@
         "description": "中高生にプログラミング技術を教える企業でメンターとして、主にSchool事業とキャンプ事業に携わり、プログラミングの指導や生徒のサポートを行っていました。",
         "link": "/articles/lifeistech/",
         "icon": "/images/stack/LifeIsTech.jpeg",
-        "date": "2023月 7月〜",
+        "date": "2023年 7月〜",
         "tags": [
             "Life is Tech",
             "メンター",
