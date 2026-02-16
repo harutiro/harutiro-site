@@ -60,6 +60,19 @@
         ]
     },
     {
+        "name": "梶原研究室にて研究活動を行う",
+        "description": "研究室に正式に配属され、iBeaconやUWBを用いた位置推定の研究活動を行っています。研究内容としては、UWBの研究やBLEやWi-Fiなどの電波を用いた位置推定の研究などを行っています。",
+        "link": "https://kajilab.net/",
+        "icon": "/images/stack/kaji_original.webp",
+        "date": "2024年 5月",
+        "tags": [
+            "iBeacon",
+            "UWB",
+            "位置推定",
+            "研究活動"
+        ]
+    },
+    {
         "header": true,
         "name": "大学2年生"
     },
