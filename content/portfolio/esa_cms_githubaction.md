@@ -1,6 +1,6 @@
 ---
 title: esaをCMSにしてGitHubActionsとhugoを用いて自動でホームページを更新する方法の考案
-date: 2021-09-03
+date: 2023-05-28
 images: [ "/images/portfolio/icons/esa_cms.png" ]
 description: esaをCMSにしてGitHubActionsとhugoを用いて自動でホームページを更新する方法の考案という技術系同人誌を作成し、技書博8・技術書店15・技書博9で配布した
 icons: ["https://skillicons.dev/icons?i=github" ]

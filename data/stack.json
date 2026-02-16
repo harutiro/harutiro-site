@@ -79,7 +79,7 @@
     {
         "name": "2023 技育CAMPキャラバン名古屋にて、企業賞を受賞",
         "description": "雀をする時にウェアラブルデバイスをつけ、心拍数を取得し全員で確認をすることで新たなゲーム性を追加するアプリケーションの開発",
-        "link": "https://www.canva.com/design/DAF0xYjmrsM/-Sf1-DPOQC_kCB8QCgOp3A/edit?utm_content=DAF0xYjmrsM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+        "link": "/portfolio/heartbeatsmahjong/",
         "icon": "/images/stack/heartBeatsSensing.png",
         "date": "2023年 11月",
         "tags": [
@@ -135,7 +135,7 @@
     {
         "name": "2022 サポーターズ技育キャンプvol8にて優秀賞の受賞",
         "description": "ハッカソンの一つである、技育キャンプにて「FreeWi-Fi自走式バージョン」にて、優秀賞を受賞。",
-        "link": "https://docs.google.com/presentation/d/1MhENoy7cGI7D8h_mfGeelNVRtMiqpJYnAg76jblMr9g/edit?usp=sharing",
+        "link": "/portfolio/ugokuwifi/",
         "icon": "/images/stack/ugoku-wifi.png",
         "date": "2022年 10月",
         "tags": [
@@ -148,7 +148,7 @@
     {
         "name": "愛知工業大学内イベント「工科展」にて出展を行なった",
         "description": "聞き逃しを0にするアプリ 「lock-on」を開発した。授業中に録音、文字起こしを行い、検索をしやすくする",
-        "link": "https://docs.google.com/presentation/d/19hfGsL4RcWEYaWnvI8wVFHDEn4ESP-D1JwsuGRzz4KY/edit?usp=sharing",
+        "link": "/portfolio/lockon/",
         "icon": "/images/stack/lock-on.png",
         "date": "2022年 10月",
         "tags": [
@@ -161,7 +161,7 @@
     {
         "name": "2022年技育展「世の中を便利にする」部門にて登壇",
         "description": "技育キャンプvol.5にて開発した、「部屋の入り見れる像」をパワーアップして登壇しました",
-        "link": "https://docs.google.com/presentation/d/1nJJlpBWSvy_7nI_vquOpmU6FeEDkan8svN1KiU5exuY/edit?usp=sharing",
+        "link": "/portfolio/hitonoirimireru/",
         "icon": "/images/stack/supporterz.png",
         "date": "2022年 8月",
         "tags": [
@@ -203,7 +203,7 @@
     {
         "name": "2022 サポーターズ技育キャンプvol.5 努力賞受賞",
         "description": "ハッカソンの一つである、技育キャンプにて「Twitter隠れてみれる蔵」にて、努力賞を受賞。VSCodeの拡張機能を用いてどんな環境にいてもTwitterを見ることができるサービスの開発をおこなった。",
-        "link": "https://docs.google.com/presentation/d/1R7RMgf7QMETiHLV6IiQ9v8B7a7I8NbyD3_B05A_ASPw/edit?usp=sharing",
+        "link": "/portfolio/hiddingtwitter/",
         "icon": "/images/stack/kakureteTwitter.png",
         "date": "2022年 7月",
         "tags": [
@@ -216,7 +216,7 @@
     {
         "name": "2022サポーターズ技育キャンプvol.3 努力賞受賞",
         "description": "ハッカソンの一つである、技育キャンプにて「部室の人数をリアルタイムで表示してくれるサービス〜人の入り見れる蔵〜」にて、努力賞を受賞。 ibeaconやFirebaseなどのさまざまな技術やプラットフォームを用いてチーム開発を行なった。",
-        "link": "https://docs.google.com/presentation/d/1nJJlpBWSvy_7nI_vquOpmU6FeEDkan8svN1KiU5exuY/present?slide=id.g132748071b6_4_45",
+        "link": "/portfolio/hitonoirimireru/",
         "icon": "/images/stack/hitonoirimireru.png",
         "date": "2022年 6月",
         "tags": [

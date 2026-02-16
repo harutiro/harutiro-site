@@ -1,6 +1,6 @@
 ---
 title: TrainAlert2「トレアラ」～電車乗り過ごし防止アプリ～
-date: 2022-03-12
+date: 2024-10-12
 images: [ "/images/portfolio/icons/TrainAlert2.png" ]
 description: もう寝過ごさない、降りる駅に近づくと自動的にアラートを出すアプリのリメイク版
 icons: ["https://skillicons.dev/icons?i=kotlin" , "https://skillicons.dev/icons?i=androidstudio", "las la-map"]

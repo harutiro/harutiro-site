@@ -1,6 +1,6 @@
 ---
-title: 「Clips」～新しいカタチのお気に入り保存アプリ～
-date: 2021-09-03
+title: 隠れてTwitter見れる蔵を開発しました
+date: 2022-09-03
 images: [ "/images/portfolio/icons/HideTwitter.png" ]
 description: 技育キャンプvol.5にて開発した、「隠れてTwitter見れる蔵」をパワーアップして登壇しました
 icons: ["https://skillicons.dev/icons?i=vscode" ]
