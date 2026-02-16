@@ -1,9 +1,0 @@
-body {
-    font-family: "Kosugi Maru", sans-serif;
-}
-
-iframe [src^="https://docs.google.com/presentation"] {
-    width: 100% !important;
-    aspect-ratio: 16 / 9;
-    height: fit-content;
-}
