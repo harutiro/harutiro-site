@@ -1,6 +1,6 @@
 ---
 title: DriveSync Tube
-date: 2025-06-01
+date: 2026-02-16
 images: ["/images/portfolio/drivesynctube/top_pc.png"]
 description: 車内でYouTubeをみんなで共有できるリアルタイム動画プレイヤー。ホスト（車載モニター）とゲスト（同乗者のスマホ）でプレイリストを共有・操作できるWebアプリです。
 icons: ["https://skillicons.dev/icons?i=ts" , "https://skillicons.dev/icons?i=react" , "https://skillicons.dev/icons?i=docker" , "https://skillicons.dev/icons?i=postgres"]

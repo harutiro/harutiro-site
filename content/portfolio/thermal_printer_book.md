@@ -1,6 +1,6 @@
 ---
 title: サーマルプリンタで会計アプリの作成方法について本を書きました。
-date: 2021-08-27
+date: 2024-11-02
 images: [ "/images/portfolio/icons/ThermalPrinterBook.png" ]
 description: サークル内で使用するダウンロードカードの印刷兼カウントアプリの作成誕について本を書きました
 icons: ["https://skillicons.dev/icons?i=androidstudio"]

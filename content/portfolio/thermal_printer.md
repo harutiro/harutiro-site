@@ -1,6 +1,6 @@
 ---
 title: サーマルプリンタで会計アプリの作成
-date: 2021-08-27
+date: 2024-11-02
 images: [ "/images/portfolio/icons/ThermalPrinterApp.jpg" ]
 description: サークル内で使用するダウンロードカードの印刷兼カウントアプリの作成を行いました。
 icons: ["https://skillicons.dev/icons?i=androidstudio"]
