@@ -41,6 +41,6 @@ iBeaconとFirebaseを活用して、部室にいる人数をリアルタイム�
 
 ## 発表資料
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_1nJJlpBWSvy_7nI_vquOpmU6FeEDkan8svN1KiU5exuY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="500" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTxCw3LPuDj4pV8ksbBC-5Ze-sL9pV-1RCaaAU_Rr7ZUFqocH-HzgghQdXoZq1iCFZsvkuScnMdRctJ/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 [発表資料を直接開く（Google Slides）](https://docs.google.com/presentation/d/1nJJlpBWSvy_7nI_vquOpmU6FeEDkan8svN1KiU5exuY/edit?usp=sharing)
