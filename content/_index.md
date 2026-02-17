@@ -183,7 +183,7 @@ title: HomePage
     <span style="font-size:0.75rem; color:#64748b; margin-left:auto;">2023年1月〜現在</span>
   </div>
   <p style="font-size:0.9rem; color:#475569; margin:0.5rem 0 0;">
-    SwiftUI, UIKit, AVFoundation, Realmなどを活用。新規事業を中心とした受託会社Relicにて、iOSプログラマーとしてテスト記述・バグ修正・新規機能開発に従事。
+    SwiftUI, UIKit, AVFoundation, Realmなどを活用。新規事業を中心とした株式会社Relicにて、iOSプログラマーとしてテスト記述・バグ修正・新規機能開発に従事。
   </p>
 </div>
 
@@ -194,7 +194,7 @@ title: HomePage
     <span style="font-size:0.75rem; color:#64748b; margin-left:auto;">2023年10月〜2024年2月</span>
   </div>
   <p style="font-size:0.9rem; color:#475569; margin:0.5rem 0 0;">
-    受託会社Relicにて、Flutterのテンプレートアプリ作成、バグ修正、新規機能開発を担当。
+    株式会社Relicにて、Flutterのテンプレートアプリ作成、バグ修正、新規機能開発を担当。
   </p>
 </div>
 

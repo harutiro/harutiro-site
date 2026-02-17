@@ -48,8 +48,8 @@
     {
         "name": "DroidKaigiにて位置情報サービス(Geofence)の使い方について登壇をしました。",
         "description": "内容としては、自作のGeofenceの使い方とGoogleMobileServiceのGeofenceの違いを述べたり、電池寿命を伸ばすための工夫などをスライド150ページほどでまとめました。",
-        "link": "/articles/droidkaigi/",
-        "icon": "/images/stack/droidkaigi.png",
+        "link": "/articles/droidkaigi2024/",
+        "icon": "/images/stack/droidkaigi2024.png",
         "date": "2024年 8月",
         "tags": [
             "カンファレンス",
